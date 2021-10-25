@@ -15,6 +15,8 @@ bibliography: [book.bib, packages.bib]
 #github-repo: networkLabhp/networkLabhp.github.io
 ---
 
+# Introduction
+
 ### About us
 
 
@@ -55,13 +57,6 @@ Cross-references make it easier for your readers to find and link to elements in
 ### 수상경력
 ---
 
-
-```{r nice-tab, tidy=FALSE}
-knitr::kable(
-  head(pressure, 10), caption = 'Here is a nice table!',
-  booktabs = TRUE
-)
-```
 
 <!--chapter:end:02-professor.Rmd-->
 
