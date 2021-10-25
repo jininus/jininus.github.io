@@ -1,0 +1,28 @@
+# Professor
+
+Cross-references make it easier for your readers to find and link to elements in your book.
+
+| :-: | :-: |
+| 소속 | |
+| 이름 | |
+| 연락처 | |
+| 이메일 | |
+
+
+### 교육 및 연구경력
+---
+
+
+### 학술활동경력
+---
+
+### 수상경력
+---
+
+
+```{r nice-tab, tidy=FALSE}
+knitr::kable(
+  head(pressure, 10), caption = 'Here is a nice table!',
+  booktabs = TRUE
+)
+```
