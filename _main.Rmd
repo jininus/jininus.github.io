@@ -37,11 +37,12 @@ knitr::write_bib(c(
 
 Cross-references make it easier for your readers to find and link to elements in your book.
 
+| | |
 | :-: | :-: |
-| 소속 | |
-| 이름 | |
-| 연락처 | |
-| 이메일 | |
+| 소속 | 1 |
+| 이름 | 2 |
+| 연락처 | 3 |
+| 이메일 | 4 |
 
 
 ### 교육 및 연구경력
