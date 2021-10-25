@@ -15,9 +15,7 @@ bibliography: [book.bib, packages.bib]
 #github-repo: networkLabhp/networkLabhp.github.io
 ---
 
-# Introduction
-
-### About us
+# About us {-}
 
 <hr style="border:2px solid gray"> </hr>
 
@@ -36,7 +34,7 @@ knitr::write_bib(c(
 
 <!--chapter:end:index.Rmd-->
 
-# Professor
+# Professor {-}
 
 Cross-references make it easier for your readers to find and link to elements in your book.
 
@@ -48,7 +46,7 @@ Cross-references make it easier for your readers to find and link to elements in
 | 이메일 | 4 |
 
 
-## 교육 및 연구경력
+## 교육 및 연구경력 {-}
 
 <hr style="border:2px solid gray"> </hr>
 
@@ -57,38 +55,60 @@ Cross-references make it easier for your readers to find and link to elements in
 
 
 
-## 학술활동경력
+## 학술활동경력 {-}
 
 <hr style="border:2px solid gray"> </hr>
 
 
 
 
-## 수상경력
+## 수상경력 {-}
 
 <hr style="border:2px solid gray"> </hr>
 
 
 <!--chapter:end:02-professor.Rmd-->
 
-# Lab Members
+# Lab Members {-}
 
-## 박사과정
+## 박사 / 통합과정 {-}
+
+<hr style="border:2px solid gray"> </hr>
+
+
+
+
+
+<table>
+  <tr>
+    <td rowspan="3"><img src="./pics/doctor/191JYS.png"></td>
+    <td>성명</td>
+	<td>송종호</td>
+  </tr>
+  <tr>
+    <td>이메일</td>
+	<td>jh.song@yonsei.ac.kr</td>
+  </tr>
+  <tr>
+    <td>연구분야</td>
+	<td>b</td>
+  </tr>
+</table>
+
+
+
+
+
+
+
+
+
+## 석사과정 {-}
 
 <hr style="border:2px solid gray"> </hr>
 
 
-
-
-
-
-
-
-
-
-## 석사과정
-
-<hr style="border:2px solid gray"> </hr>
+pics/master/202SJH.png
 
 <!-- You can add parts to organize one or more book chapters together. Parts can be inserted at the top of an .Rmd file, before the first-level chapter heading in that same file.  -->
 
@@ -103,9 +123,9 @@ Cross-references make it easier for your readers to find and link to elements in
 
 <!--chapter:end:03-labmembers.Rmd-->
 
-# Publications
+# Publications {-}
 
-## Working Papers
+## Working Papers {-}
 
 <hr style="border:2px solid gray"> </hr>
 
@@ -113,7 +133,7 @@ Cross-references make it easier for your readers to find and link to elements in
 
 
 
-## Publications in SSCI-indexed journals
+## Publications in SSCI-indexed journals {-}
 
 <hr style="border:2px solid gray"> </hr>
 

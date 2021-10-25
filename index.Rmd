@@ -15,9 +15,7 @@ bibliography: [book.bib, packages.bib]
 #github-repo: networkLabhp/networkLabhp.github.io
 ---
 
-# Introduction
-
-### About us
+# About us {-}
 
 <hr style="border:2px solid gray"> </hr>
 

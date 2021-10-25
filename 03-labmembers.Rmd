@@ -1,20 +1,38 @@
-# Lab Members
+# Lab Members {-}
 
-## 박사 / 통합과정
+## 박사 / 통합과정 {-}
 
 <hr style="border:2px solid gray"> </hr>
 
 
-그냥 켜져주면 편할 거라고 생각하지 않니?
-
-<img src="./pics/doctor/191JYS.png">
 
 
 
+<table>
+  <tr>
+    <td rowspan="3"><img src="./pics/doctor/191JYS.png"></td>
+    <td>성명</td>
+	<td>송종호</td>
+  </tr>
+  <tr>
+    <td>이메일</td>
+	<td>jh.song@yonsei.ac.kr</td>
+  </tr>
+  <tr>
+    <td>연구분야</td>
+	<td>b</td>
+  </tr>
+</table>
 
 
 
-## 석사과정
+
+
+
+
+
+
+## 석사과정 {-}
 
 <hr style="border:2px solid gray"> </hr>
 
