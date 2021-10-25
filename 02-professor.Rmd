@@ -11,14 +11,22 @@ Cross-references make it easier for your readers to find and link to elements in
 
 
 ## 교육 및 연구경력
+
 <hr style="border:2px solid gray"> </hr>
+
+
+
+
 
 
 ## 학술활동경력
+
 <hr style="border:2px solid gray"> </hr>
+
 
 
 
 ## 수상경력
+
 <hr style="border:2px solid gray"> </hr>
 
