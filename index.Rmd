@@ -1,5 +1,5 @@
 --- 
-title: "for Network Analysis, Network Psychometric, Bayesian Clinical Trial"
+#title: "for Network Analysis, Network Psychometric, Bayesian Clinical Trial"
 #author: "John Doe"
 #date: "`r Sys.Date()`"
 site: bookdown::bookdown_site

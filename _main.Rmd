@@ -1,5 +1,5 @@
 --- 
-title: "for Network Analysis, Network Psychometric, Bayesian Clinical Trial"
+#title: "for Network Analysis, Network Psychometric, Bayesian Clinical Trial"
 #author: "John Doe"
 #date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
@@ -36,17 +36,36 @@ knitr::write_bib(c(
 
 # Professor {-}
 
-Cross-references make it easier for your readers to find and link to elements in your book.
-
-| | |
-| :-: | :-: |
-| 소속 | 1 |
-| 이름 | 2 |
-| 연락처 | 3 |
-| 이메일 | 4 |
 
 
-## 교육 및 연구경력 {-}
+
+
+<table>
+  <tr>
+    <td rowspan="4"><img src="./pics/professor.png" width = 150></td>
+    <td>성명</td>
+	<td>진익훈</td>
+  </tr>
+  <tr>
+    <td>연구분야</td>
+	<td>Network Analysis, Network Psychometric, Bayesian Clinical Trial</td>
+  </tr>
+  <tr>
+    <td>이메일</td>
+	<td>ijin@yonsei.ac.kr</td>
+  </tr>
+  <tr>
+    <td>Tel.</td>
+	<td>02)2123-2541</td>
+  </tr>
+</table>
+
+
+
+
+
+
+### 교육 및 연구경력 {-}
 
 <hr style="border:2px solid gray"> </hr>
 
@@ -55,14 +74,14 @@ Cross-references make it easier for your readers to find and link to elements in
 
 
 
-## 학술활동경력 {-}
+### 학술활동경력 {-}
 
 <hr style="border:2px solid gray"> </hr>
 
 
 
 
-## 수상경력 {-}
+### 수상경력 {-}
 
 <hr style="border:2px solid gray"> </hr>
 
@@ -71,17 +90,40 @@ Cross-references make it easier for your readers to find and link to elements in
 
 # Lab Members {-}
 
-## 박사 / 통합과정 {-}
+### 박사 / 통합과정 {-}
 
 <hr style="border:2px solid gray"> </hr>
 
 
 
 
+<img src="./pics/doctor/191JYS.png">
+
+
+
+
+</br>
+</br>
+</br>
+</br>
+</br>
+
+
+
+### 석사과정 {-}
+
+<hr style="border:2px solid gray"> </hr>
 
 <table>
+
+  <colgroup>
+  <col style="width:20%">
+  <col style="width:15%">
+  <col style="width:60%">
+  </colgroup>
+
   <tr>
-    <td rowspan="3"><img src="./pics/doctor/191JYS.png"></td>
+    <td rowspan="3" align="center" valign="middle"><img src="./pics/master/202SJH.png" height = 150></td>
     <td>성명</td>
 	<td>송종호</td>
   </tr>
@@ -101,15 +143,6 @@ Cross-references make it easier for your readers to find and link to elements in
 
 
 
-
-
-## 석사과정 {-}
-
-<hr style="border:2px solid gray"> </hr>
-
-
-pics/master/202SJH.png
-
 <!-- You can add parts to organize one or more book chapters together. Parts can be inserted at the top of an .Rmd file, before the first-level chapter heading in that same file.  -->
 
 <!-- Add a numbered part: `# (PART) Act one {-}` (followed by `# A chapter`) -->
@@ -125,7 +158,7 @@ pics/master/202SJH.png
 
 # Publications {-}
 
-## Working Papers {-}
+### Working Papers {-}
 
 <hr style="border:2px solid gray"> </hr>
 
@@ -133,7 +166,7 @@ pics/master/202SJH.png
 
 
 
-## Publications in SSCI-indexed journals {-}
+### Publications in SSCI-indexed journals {-}
 
 <hr style="border:2px solid gray"> </hr>
 

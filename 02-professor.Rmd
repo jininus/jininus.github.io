@@ -1,16 +1,35 @@
 # Professor {-}
 
-Cross-references make it easier for your readers to find and link to elements in your book.
-
-| | |
-| :-: | :-: |
-| 소속 | 1 |
-| 이름 | 2 |
-| 연락처 | 3 |
-| 이메일 | 4 |
 
 
-## 교육 및 연구경력 {-}
+
+
+<table>
+  <tr>
+    <td rowspan="4"><img src="./pics/professor.png" width = 150></td>
+    <td>성명</td>
+	<td>진익훈</td>
+  </tr>
+  <tr>
+    <td>연구분야</td>
+	<td>Network Analysis, Network Psychometric, Bayesian Clinical Trial</td>
+  </tr>
+  <tr>
+    <td>이메일</td>
+	<td>ijin@yonsei.ac.kr</td>
+  </tr>
+  <tr>
+    <td>Tel.</td>
+	<td>02)2123-2541</td>
+  </tr>
+</table>
+
+
+
+
+
+
+### 교육 및 연구경력 {-}
 
 <hr style="border:2px solid gray"> </hr>
 
@@ -19,14 +38,14 @@ Cross-references make it easier for your readers to find and link to elements in
 
 
 
-## 학술활동경력 {-}
+### 학술활동경력 {-}
 
 <hr style="border:2px solid gray"> </hr>
 
 
 
 
-## 수상경력 {-}
+### 수상경력 {-}
 
 <hr style="border:2px solid gray"> </hr>
 
