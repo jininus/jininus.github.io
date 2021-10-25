@@ -18,7 +18,7 @@ bibliography: [book.bib, packages.bib]
 # Introduction
 
 ### About us
-
+<hr style="border:2px solid gray"> </hr>
 
 
 <!-- ```{r, eval=FALSE} -->
@@ -47,27 +47,28 @@ Cross-references make it easier for your readers to find and link to elements in
 | 이메일 | 4 |
 
 
-교육 및 연구경력
----
+## 교육 및 연구경력
+<hr style="border:2px solid gray"> </hr>
 
 
-학술활동경력
----
+## 학술활동경력
+<hr style="border:2px solid gray"> </hr>
 
-수상경력
----
+
+
+## 수상경력
+<hr style="border:2px solid gray"> </hr>
 
 
 <!--chapter:end:02-professor.Rmd-->
 
 # Lab Members
 
-박사과정
----
+## 박사과정
+<hr style="border:2px solid gray"> </hr>
 
-
-석사과정
----
+## 석사과정
+<hr style="border:2px solid gray"> </hr>
 
 <!-- You can add parts to organize one or more book chapters together. Parts can be inserted at the top of an .Rmd file, before the first-level chapter heading in that same file.  -->
 
@@ -85,21 +86,17 @@ Cross-references make it easier for your readers to find and link to elements in
 # Publications
 
 Working Papers
----
+<hr style="border:2px solid gray"> </hr>
 
 - "a", b
 
 
 
 Publications in SSCI-indexed journals
----
-
-Publications in SSCI-indexed journals
-----
+<hr style="border:2px solid gray"> </hr>
 
 - "c", d
 
-The RStudio Visual Markdown Editor can also make it easier to insert citations: <https://rstudio.github.io/visual-markdown-editing/#/citations>
 
 <!--chapter:end:04-publication.Rmd-->
 

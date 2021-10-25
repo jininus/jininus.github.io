@@ -1,18 +1,14 @@
 # Publications
 
 Working Papers
----
+<hr style="border:2px solid gray"> </hr>
 
 - "a", b
 
 
 
 Publications in SSCI-indexed journals
----
-
-Publications in SSCI-indexed journals
-----
+<hr style="border:2px solid gray"> </hr>
 
 - "c", d
 
-The RStudio Visual Markdown Editor can also make it easier to insert citations: <https://rstudio.github.io/visual-markdown-editing/#/citations>
