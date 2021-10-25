@@ -8,7 +8,7 @@
 
 
 
-<img src="pics/doctor/191JYS.png" width=100 alt="멤버사진">
+<img src="pics/doctor/191JYS.png">
 
 
 
