@@ -7,7 +7,7 @@
 
 그냥 켜져주면 편할 거라고 생각하지 않니?
 
-<img src="pics/doctor/191JYS.png">
+<img src="./pics/doctor/191JYS.png">
 
 
 
