@@ -1,10 +1,17 @@
 # Publications
 
-##  Working Papers
+Working Papers
+---
 
 - "a", b
 
-## Publications in SSCI-indexed journals
+
+
+Publications in SSCI-indexed journals
+---
+
+Publications in SSCI-indexed journals
+----
 
 - "c", d
 

@@ -47,14 +47,14 @@ Cross-references make it easier for your readers to find and link to elements in
 | 이메일 | 4 |
 
 
-### 교육 및 연구경력
+교육 및 연구경력
 ---
 
 
-### 학술활동경력
+학술활동경력
 ---
 
-### 수상경력
+수상경력
 ---
 
 
@@ -62,11 +62,12 @@ Cross-references make it easier for your readers to find and link to elements in
 
 # Lab Members
 
-### 박사과정
+박사과정
+---
 
 
-### 석사과정정
-
+석사과정
+---
 
 <!-- You can add parts to organize one or more book chapters together. Parts can be inserted at the top of an .Rmd file, before the first-level chapter heading in that same file.  -->
 
@@ -83,11 +84,18 @@ Cross-references make it easier for your readers to find and link to elements in
 
 # Publications
 
-##  Working Papers
+Working Papers
+---
 
 - "a", b
 
-## Publications in SSCI-indexed journals
+
+
+Publications in SSCI-indexed journals
+---
+
+Publications in SSCI-indexed journals
+----
 
 - "c", d
 
