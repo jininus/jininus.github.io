@@ -6,8 +6,8 @@
 ]{book}
 \usepackage{amsmath,amssymb}
 \usepackage{lmodern}
-\usepackage{iftex}
-\ifPDFTeX
+\usepackage{ifxetex,ifluatex}
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
   \usepackage[T1]{fontenc}
   \usepackage[utf8]{inputenc}
   \usepackage{textcomp} % provide euro and other symbols
@@ -67,7 +67,7 @@
   \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
 \setcounter{secnumdepth}{5}
 \usepackage{booktabs}
-\ifLuaTeX
+\ifluatex
   \usepackage{selnolig}  % disable illegal ligatures
 \fi
 \usepackage[]{natbib}
@@ -125,6 +125,18 @@ Tel.
 \hypertarget{uxbc15uxc0ac-uxd1b5uxd569uxacfcuxc815}{%
 \subsection*{박사 / 통합과정}\label{uxbc15uxc0ac-uxd1b5uxd569uxacfcuxc815}}
 \addcontentsline{toc}{subsection}{박사 / 통합과정}
+
+height = 150\textgreater{}
+
+성명
+
+전예슬
+
+이메일
+
+연구분야
+
+b
 
 \hypertarget{uxc11duxc0acuxacfcuxc815}{%
 \subsection*{석사과정}\label{uxc11duxc0acuxacfcuxc815}}

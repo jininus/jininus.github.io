@@ -96,8 +96,34 @@ knitr::write_bib(c(
 
 
 
+<table>
 
-<img src="./pics/doctor/191JYS.png">
+  <colgroup>
+  <col style="width:20%">
+  <col style="width:15%">
+  <col style="width:60%">
+  </colgroup>
+
+  <tr>
+    <td rowspan="3" align="center" valign="middle"><img src="./pics/doctor/191JYS.png"> height = 150></td>
+    <td>성명</td>
+	<td>전예슬</td>
+  </tr>
+  <tr>
+    <td>이메일</td>
+	<td></td>
+  </tr>
+  <tr>
+    <td>연구분야</td>
+	<td>b</td>
+  </tr>
+</table>
+
+
+
+
+
+
 
 
 
