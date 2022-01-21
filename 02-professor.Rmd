@@ -1,45 +1,40 @@
 # Professor {-}
 
-
-
-
-
-<table>
-  <tr>
-    <td rowspan="4"><img src="./pics/professor.png" width = 150></td>
-    <td>성명</td>
-	<td>진익훈</td>
-  </tr>
-  <tr>
-    <td>연구분야</td>
-	<td>Network Analysis, Network Psychometric, Bayesian Clinical Trial</td>
-  </tr>
-  <tr>
-    <td>이메일</td>
-	<td>ijin@yonsei.ac.kr</td>
-  </tr>
-  <tr>
-    <td>Tel.</td>
-	<td>02)2123-2541</td>
-  </tr>
-</table>
-
-
-Ick Hoon Jin
-
+**Ick Hoon Jin, Ph.D.**
 
 
 
 
 ### Contact Information {-}
+<tr>
+<th> Good </th>
+<th> Bad </th>
+</tr>
+<tr>
+<td>
 
-421 Daewoo Hall, Yonsei University 
-50 Yonsei-ro, Seodaemun 
-Seoul, Rep. of Korea, 03722 
+```c++
+int foo() {
+    int result = 4;
+    return result;
+}
+```
 
-Cell: 82-10-9164-1597
-Office: 82-2-2123-2541
-E-mail: ijin@yonsei.ac.kr
+</td>
+<td>
+
+```c++
+int foo() { 
+    int x = 4;
+    return x;
+}
+```
+
+</td>
+</tr>
+</table>
+
+
 
 
 
@@ -75,8 +70,7 @@ B.A., Applied Statistics, Business Administration, February 2004.
 
 ### Publications {-}
 
-Students are italic.<br>
-＊ is the article where I am a corresponding author.
+Students are italic. ＊ for papers as corresponding author.
 	
 1. **Jin, I.H.** and Liang, F. (2013) Fitting social network models using varying truncation stochastic approximation MCMC algorithms. Journal of Computational and Graphical Statistics. Vol. 22. No. 4: pp. 927-952. **Selected JCGS highlights at the Interface 2012: Future of Statistical Computing**
 
