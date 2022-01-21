@@ -27,7 +27,11 @@
 
 Ick Hoon Jin
 
-# Contact Information {-}
+
+
+
+
+### Contact Information {-}
 
 421 Daewoo Hall, Yonsei University 
 50 Yonsei-ro, Seodaemun 
@@ -39,7 +43,7 @@ E-mail: ijin@yonsei.ac.kr
 
 
 
-# Academic Appointment {-}
+### Academic Appointment {-}
 
 - Yonsei University, Seoul, Republic of Korea. <br> 
 Assistant Professor, Department of Applied Statistics, Sept. 2019 - .
@@ -56,7 +60,7 @@ Mentor: Dr. Ying Yuan and Dr. Peter F. Thall
 
 
 
-# Education  {-}
+### Education {-}
 
 - Texas A&M University, College Station, Texas. <br> 
 Ph.D., Statistics, August 2011. <br> 
@@ -66,7 +70,10 @@ Advisor: Dr. Faming Liang
 M.A., Applied Statistics, February 2006. <br> 
 B.A., Applied Statistics, Business Administration, February 2004.
 
-# Publications  {-}
+
+
+
+### Publications {-}
 
 Students are italic.<br>
 ＊ is the article where I am a corresponding author.
@@ -108,6 +115,10 @@ Students are italic.<br>
 18. Park, J., *Jeon, Y.*, Shin, M., Jeon, M., and **Jin, I.H.**＊ (2021) Bayesian Shrinkage for Functional Network Models, with Applications to Longitudinal Item Response Data. Revision Journal of Computational and Graphical Statistics. Accepted. ArXiv:2006.13698.
 
 
+
+
+
+
 ### Submitted Manuscripts {-}
 
 
@@ -129,10 +140,14 @@ Students are italic.<br>
 8. **Jin, I.H.**＊, *Park, J.*, and Jeon, M. (2021) How social network influences human behavior: An integrated latent space approach. Submitted to Psychometrika.
 
 
+
+
+
+
 ### Refereed Conference Proceeding {-}
 
 
-1. Liu, F., *Eugenio, E.*, Jin, I.H, *Bowen, C. M.* (2020) Dierentially Private Generation of Social Networks via Exponential Random Graph Models, Proceedings of 2020 IEEE 44th Annual Computers, Software, and Applications Conference (COMPSAC). pp. 1695-1700.
+1. Liu, F., *Eugenio, E.*, Jin, I.H, *Bowen, C. M.* (2020) Differentially Private Generation of Social Networks via Exponential Random Graph Models, Proceedings of 2020 IEEE 44th Annual Computers, Software, and Applications Conference (COMPSAC). pp. 1695-1700.
 
 
 
@@ -153,11 +168,20 @@ Students are italic.<br>
 
 6. *You, K.*, Jeon, M., Kim, I., and **Jin, I.H.** (2021) Multiple Latent Spaces Comparisons Using the Topological Analysis.
 
+
+
+
+
+
 ### Unpublished Manuscript
 
 1. **Jin, I.H.** and Liang, F. (2009) Bayesian analysis for exponential random graph models using the double Metropolis-Hastings sampler. Technical Report 2009-097. Institute for Applied Mathematics and Computer Science, Texas A&M University.
 
 2. *Brodersen, A.*, **Jin, I.H.**, Cheng, Y., and Jeon, M. (2021) Applying the Network Item Response Model to Student Assessment Data. ArXiv:2003.07657.
+
+
+
+
 
 ### Editorial Service {-}
 
@@ -181,7 +205,7 @@ Students are italic.<br>
 
 
 
-### Teaching  {-}
+### Teaching {-}
 
 1. Texas A&M University, College Station, Texas USA 
 
@@ -221,7 +245,7 @@ Students are italic.<br>
 
 
 
-### Award  {-}
+### Award {-}
 - Korean International Statistical Society Career Development Award, 2017.
 - Tanaka Award: Most Outstanding Article in Multivariate Behavioral Research Volume 53.
 
@@ -230,7 +254,7 @@ Students are italic.<br>
 
 
 
-### Invited Presentations  {-}
+### Invited Presentations {-}
 
 - MD Anderson Cancer Center, February, 2011.
 - Complex Network Transition Workshop, SAMSI, June, 2011.
@@ -275,7 +299,7 @@ Students are italic.<br>
 
 
 
-### Journal Referee  {-}
+### Journal Referee {-}
 
 - Journal of the American Statistical Association 
 - Journal of Computational and Graphical Statistics (3)
