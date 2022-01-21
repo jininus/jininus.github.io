@@ -144,7 +144,7 @@ Students are italic.<br>
 18. Park, J., *Jeon, Y.*, Shin, M., Jeon, M., and **Jin, I.H.**＊ (2021) Bayesian Shrinkage for Functional Network Models, with Applications to Longitudinal Item Response Data. Revision Journal of Computational and Graphical Statistics. Accepted. ArXiv:2006.13698.
 
 
-## Submitted Manuscripts {-}
+### Submitted Manuscripts {-}
 
 
 
@@ -165,7 +165,7 @@ Students are italic.<br>
 8. **Jin, I.H.**＊, *Park, J.*, and Jeon, M. (2021) How social network influences human behavior: An integrated latent space approach. Submitted to Psychometrika.
 
 
-## Refereed Conference Proceeding {-}
+### Refereed Conference Proceeding {-}
 
 
 1. Liu, F., *Eugenio, E.*, Jin, I.H, *Bowen, C. M.* (2020) Dierentially Private Generation of Social Networks via Exponential Random Graph Models, Proceedings of 2020 IEEE 44th Annual Computers, Software, and Applications Conference (COMPSAC). pp. 1695-1700.
@@ -175,7 +175,7 @@ Students are italic.<br>
 
 
 
-## Ongoing Project {-}
+### Ongoing Project {-}
 
 1. *D. Ko*, **Jin, I.H.**, and Im, J. (2021) Bayesian Nonparametric quantile regression with multiple proxy variables.
 
@@ -189,13 +189,13 @@ Students are italic.<br>
 
 6. *You, K.*, Jeon, M., Kim, I., and **Jin, I.H.** (2021) Multiple Latent Spaces Comparisons Using the Topological Analysis.
 
-## Unpublished Manuscript
+### Unpublished Manuscript
 
 1. **Jin, I.H.** and Liang, F. (2009) Bayesian analysis for exponential random graph models using the double Metropolis-Hastings sampler. Technical Report 2009-097. Institute for Applied Mathematics and Computer Science, Texas A&M University.
 
 2. *Brodersen, A.*, **Jin, I.H.**, Cheng, Y., and Jeon, M. (2021) Applying the Network Item Response Model to Student Assessment Data. ArXiv:2003.07657.
 
-## Editorial Service {-}
+### Editorial Service {-}
 
 - Associate Editor, Communications for Statistical Applications and Methods, 2017 -
 
@@ -204,7 +204,7 @@ Students are italic.<br>
 
 
 
-## Grant Proposal {-}
+### Grant Proposal {-}
 
 - University of Notre Dame, Center for Informatics and Computational Sciences (2018 Seed Grant). "Incorporating Uncertainty in Plant Growth into Models of Coastal Sediment Accretion." Role: Co-PI, Funded, $32,000.
 
@@ -217,7 +217,7 @@ Students are italic.<br>
 
 
 
-## Teaching  {-}
+### Teaching  {-}
 
 1. Texas A&M University, College Station, Texas USA 
 
@@ -257,7 +257,7 @@ Students are italic.<br>
 
 
 
-## Award  {-}
+### Award  {-}
 - Korean International Statistical Society Career Development Award, 2017.
 - Tanaka Award: Most Outstanding Article in Multivariate Behavioral Research Volume 53.
 
@@ -266,7 +266,7 @@ Students are italic.<br>
 
 
 
-## Invited Presentations  {-}
+### Invited Presentations  {-}
 
 - MD Anderson Cancer Center, February, 2011.
 - Complex Network Transition Workshop, SAMSI, June, 2011.
@@ -311,7 +311,7 @@ Students are italic.<br>
 
 
 
-## Journal Referee  {-}
+### Journal Referee  {-}
 
 - Journal of the American Statistical Association 
 - Journal of Computational and Graphical Statistics (3)
@@ -338,7 +338,7 @@ Students are italic.<br>
 
 
 
-## Academic Committee {-}
+### Academic Committee {-}
 
 1. Chair of Master's Committee
 
@@ -366,7 +366,7 @@ Students are italic.<br>
 
 
 
-## Professional Memberships {-}
+### Professional Memberships {-}
 
 - American Statistical Association
 - Institute of Mathematical Statistics
@@ -380,14 +380,14 @@ Students are italic.<br>
 
 
 
-## Programming Languages {-}
+### Programming Languages {-}
 
 C, R, Matlab, Julia, LaTeX.
 
 
 
 
-### 교육 및 연구경력 {-}
+#### 교육 및 연구경력 {-}
 
 <hr style="border:2px solid gray"> </hr>
 
@@ -396,14 +396,14 @@ C, R, Matlab, Julia, LaTeX.
 
 
 
-### 학술활동경력 {-}
+#### 학술활동경력 {-}
 
 <hr style="border:2px solid gray"> </hr>
 
 
 
 
-### 수상경력 {-}
+#### 수상경력 {-}
 
 <hr style="border:2px solid gray"> </hr>
 
@@ -427,7 +427,7 @@ C, R, Matlab, Julia, LaTeX.
   </colgroup>
 
   <tr>
-    <td rowspan="3" align="center" valign="middle"><img src="./pics/doctor/191JYS.png"> height = 150></td>
+    <td rowspan="3" align="center" valign="middle"><img src="./pics/doctor/191JYS.png" height = 150></td>
     <td>성명</td>
 	<td>전예슬</td>
   </tr>
