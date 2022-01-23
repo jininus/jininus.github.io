@@ -55,7 +55,7 @@ C, R, Matlab, Julia, LaTeX.
 <br>
 
 
-### Academic Appointment {-}
+## Academic Appointment {-}
 
 ----
 
@@ -155,7 +155,7 @@ B.A., Applied Statistics, Business Administration, February 2004.
 <br>
 
 
-### Publications {-}
+## Publications {-}
 
 ----
 
@@ -315,7 +315,7 @@ Students are italic. ＊ for as corresponding author.
 <br>
 
 
-### Scholarly Career {-}
+## Scholarly Career {-}
 
 
 
