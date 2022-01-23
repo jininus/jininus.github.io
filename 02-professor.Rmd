@@ -2,7 +2,36 @@
 
 
 
-<img src="./pics/professor.png" width = 150>
+
+<table>
+
+  <colgroup>
+  <col style="width:20%">
+  <col style="width:15%">
+  <col style="width:60%">
+  </colgroup>
+
+  <tr>
+    <td rowspan="3" align="center" valign="middle"><img src="./pics/professor.png" width = 150></td>
+    <td>**성명**</td>
+	<td>진익훈</td>
+  </tr>
+  <tr>
+    <td>**Contact**</td>
+	<td>*Cell*: 82-10-9164-1597 <br>
+*Office*: 82-2-2123-2541 <br>
+*E-mail*: ijin@yonsei.ac.kr
+</td>
+  </tr>
+    <tr>
+    <td>**Mailing**<br>**Address**</td>
+	<td>421 Daewoo Hall, Yonsei University  <br>
+50 Yonsei-ro, Seodaemun  <br>
+Seoul, Rep. of Korea, 03722 </td>
+  </tr>
+</table><br>
+
+
 
 
 
@@ -10,27 +39,12 @@
 <br>
 <br>
 <br>
-<br>
-<br>
 
-
-
-
-### Contact Information {-}
+#### Programming Languages {-}
 
 ----
 
-Cell: 82-10-9164-1597 <br>
-Office: 82-2-2123-2541 <br>
-E-mail: ijin@yonsei.ac.kr
-
-
-##### Mailing Address {-}
-
-421 Daewoo Hall, Yonsei University  <br>
-50 Yonsei-ro, Seodaemun  <br>
-Seoul, Rep. of Korea, 03722 
-
+C, R, Matlab, Julia, LaTeX.
 
 
 
@@ -39,9 +53,6 @@ Seoul, Rep. of Korea, 03722
 <br>
 <br>
 <br>
-
-
-
 
 
 ### Academic Appointment {-}
@@ -66,13 +77,10 @@ Postdoctoral Fellow, Biostatistics, <br>August 2011 - August 2014. <br>
 
 <br>
 <br>
-<br>
-<br>
-<br>
 
 
 
-### Education {-}
+#### Education {-}
 
 ----
 
@@ -86,12 +94,65 @@ B.A., Applied Statistics, Business Administration, February 2004.
 
 
 
-<br>
-<br>
-<br>
+
 <br>
 <br>
 
+
+#### Teaching {-}
+
+----
+
+1. Texas A&M University, College Station, Texas USA 
+
+	- **Lecturer**
+		1. STAT 303: Statistical methods Summer 2009
+		2. STAT 201: Elementary statistical inference Fall 2009
+		3. STAT 201: Elementary statistical inference Spring 2010
+
+	- **Teaching Assistant**
+
+		1. STAT 211: Principal of Statistics (Fall 2006 - Spring 2009)
+		2. STAT 630: Overview of Mathematical Statistics (Fall 2010, Spring 2011)
+		3. STAT 611: Theory of Inference (Spring 2011)
+		4. STAT 303: Statistical Methods (Summer 2011)
+
+<br>
+
+2. University of Notre Dame, Notre Dame, Indiana USA 
+
+	- **Instructor**
+		1. ACMS 40950: Topics in Statistics Fall 2015, 2016
+		2. ACMS 60886: Applied Bayesian Statistics II Spring 2016, 2018
+		3. ACMS 30540: Mathematical Statistics Fall 2016
+		4. ACMS 60888: Statistical Computing and Monte Carlo Spring 2017, Fall 2018
+		5. ACMS 30530: Introduction to Probability Fall 2017
+		6. ACMS 40878: Statistical Computing with R Fall 2017, 2018, Spring 2019
+
+<br>
+
+3. Yonsei University, Seoul, Republic of Korea 
+
+	- **Instructor**
+		1. STA 4118: Causal Inference Fall 2019
+		2. STA 6172: Statistical Computing for Data Science II Fall 2019, Spring 2021
+		3. STA 4117: Data Science 2 - Network Data Analysis Spring 2020, Spring 2021
+		4. STA 6800: Statistical Analysis of Network Spring 2020
+		5. STA 6160: Bayesian Analysis Fall 2020
+		6. STA 6171: Statistical Computing for Data Science I Fall 2020
+
+
+
+
+
+
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
 
 
 ### Publications {-}
@@ -100,7 +161,7 @@ B.A., Applied Statistics, Business Administration, February 2004.
 
 Students are italic. ＊ for as corresponding author.
 	
-1. **Jin, I.H.** and Liang, F. (2013) Fitting social network models using varying truncation stochastic approximation MCMC algorithms. Journal of Computational and Graphical Statistics. Vol. 22. No. 4: pp. 927-952. **Selected JCGS highlights at the Interface 2012: Future of Statistical Computing**
+1. **Jin, I.H.** and Liang, F. (2013) Fitting social network models using varying truncation stochastic approximation MCMC algorithms. Journal of Computational and Graphical Statistics. Vol. 22. No. 4: pp. 927-952. <br>**Selected as JCGS highlights at the Interface 2012: Future of Statistical Computing**
 
 2. Liang, F. and **Jin, I.H.** (2013) A Monte Carlo Metropolis-Hasting algorithms for sampling from distributions with intractable normalizing constants. Neural Computation, Vol. 25. No. 8: pp. 2199-2234.
 
@@ -116,7 +177,7 @@ Students are italic. ＊ for as corresponding author.
 
 8. **Jin, I.H.**, Yuan, Y., and Bandyopadhyay, D. (2016) A Bayesian hierarchical spatial model for dental caries assessments using non-gaussian Markov random fields. The Annals of Applied Statistics. Vol. 10. No. 2: pp. 884-905.
 
-9. *Liu, H.*, **Jin, I.H.** and, Zhang, Z. (2018) Structural Equation Modeling of Social Networks: Specication, Estimation, and Applications. Multivariate Behavioral Research, Vol. 53. No. 5: pp.714-730. **Awarded Tanaka Award: Most Outstanding Article in Multivariate Behavioral Research Volume 53.**
+9. *Liu, H.*, **Jin, I.H.** and, Zhang, Z. (2018) Structural Equation Modeling of Social Networks: Specification, Estimation, and Applications. Multivariate Behavioral Research, Vol. 53. No. 5: pp.714-730. <br>**Awarded Tanaka Award: Most Outstanding Article in Multivariate Behavioral Research Volume 53.**
 
 10. **Jin, I.H.**＊ and Jeon, M. (2019) A doubly latent space joint model for local item and person dependence in item response analysis. Psychometrika, Vol. 84. No. 1: pp. 236-260.
 
@@ -130,12 +191,11 @@ Students are italic. ＊ for as corresponding author.
 
 15. Jeon, M., **Jin, I.H.**, Schweinberger, M., and Baugh, S. (2021) Mapping unobserved item-respondent interactions: A latent space item response model with interaction map. Psychometrika. Vol. 86. No. 2: pp. 378-403.
 
-16. Y. Zhang, S. Cao, C. Zhang, **Jin, I.H.**, and Zang, Y. (2021) A Bayesian Adaptive Phase I/II Clinical Trial Design with Late-onset Competing Risk Outcomes. Biometrics. In Press. https://doi.org/10.1111/biom.13347
+16. Y. Zhang, S. Cao, C. Zhang, **Jin, I.H.**, and Zang, Y. (2021) [A Bayesian Adaptive Phase I/II Clinical Trial Design with Late-onset Competing Risk Outcomes.](https://doi.org/10.1111/biom.13347) Biometrics. In Press. 
 
 17. Park, J., **Jin, I.H.**＊, and Schweinberger, M. (2022) Bayesian Model Selection for High-Dimensional Ising Models, with Applications to Educational Data. Computational Statistics and Data Analysis. Vol. 125: Article 107325.
 
-18. Park, J., *Jeon, Y.*, Shin, M., Jeon, M., and **Jin, I.H.**＊ (2021) Bayesian Shrinkage for Functional Network Models, with Applications to Longitudinal Item Response Data. Revision Journal of Computational and Graphical Statistics. Accepted. ArXiv:2006.13698.
-
+18. Park, J., *Jeon, Y.*, Shin, M., Jeon, M., and **Jin, I.H.**＊ (2021) [Bayesian Shrinkage for Functional Network Models, with Applications to Longitudinal Item Response Data. Revision Journal of Computational and Graphical Statistics.](https://arxiv.org/abs/2006.13698) Accepted. ArXiv:2006.13698.
 
 
 
@@ -144,21 +204,18 @@ Students are italic. ＊ for as corresponding author.
 
 <br>
 <br>
-<br>
-<br>
-<br>
 
 
 
-### Submitted Manuscripts {-}
+#### Submitted Manuscripts {-}
 
 ----
 
-1. **Jin, I.H.**, Jeon, M., Schweinberger, M, and Lin, L. (2021) Hierarchical Network Item Response Modeling for Discovering Differences Between Innovation and Regular School Systems in Korea. Revision Invited to Journal of Royal Statistical Society, Series C. ArXiv:1810.07876.
+1. **Jin, I.H.**, Jeon, M., Schweinberger, M, and Lin, L. (2021) [Hierarchical Network Item Response Modeling for Discovering Differences Between Innovation and Regular School Systems in Korea.](https://arxiv.org/abs/1810.07876) Revision Invited to Journal of Royal Statistical Society, Series C. ArXiv:1810.07876.
 
 2. Liu, F., *Eugenio, E.*, **Jin, I.H.**, and *Bowen, C. M.* (2021) Differentially Private Synthesis of Social Network Structure via Exponential Random Graph Model. Revision Invited to Journal of Survey Statistics and Methodology.
 
-3. **Jin, I.H.**, Liu, F., *Eugenio, E.*, Kim, J., and Liu, S. (2019) Bayesian Hierarchical Spatial Model for Small Area Estimation with Non-ignorable Nonresponses and Its Applications to the NHANES Dental Caries Assessments. Revision Invited to Annals of Applied Statistics. ArXiv:1810.05297. 
+3. **Jin, I.H.**, Liu, F., *Eugenio, E.*, Kim, J., and Liu, S. (2019) [Bayesian Hierarchical Spatial Model for Small Area Estimation with Non-ignorable Nonresponses and Its Applications to the NHANES Dental Caries Assessments.](https://arxiv.org/abs/1810.05297) Revision Invited to Annals of Applied Statistics. ArXiv:1810.05297. 
 
 4. *D. Ko*, M. Jeon, S. Lee, **Jin, I.H.**＊, and Park. H. (2021) Hidden Structure of How Children Think about Themselves Differs from What Parents Think about Their Children. Submitted to Plos One.
 
@@ -178,13 +235,10 @@ Students are italic. ＊ for as corresponding author.
 
 <br>
 <br>
-<br>
-<br>
-<br>
 
 
 
-### Refereed Conference Proceeding {-}
+#### Refereed Conference Proceeding {-}
 
 ----
 
@@ -196,15 +250,13 @@ Students are italic. ＊ for as corresponding author.
 
 
 
-<br>
-<br>
-<br>
+
 <br>
 <br>
 
 
 
-### Ongoing Project {-}
+#### Ongoing Project {-}
 
 ----
 
@@ -229,33 +281,25 @@ Students are italic. ＊ for as corresponding author.
 
 <br>
 <br>
-<br>
-<br>
-<br>
 
 
-### Unpublished Manuscript
+#### Unpublished Manuscript {-}
 
 ----
 
 1. **Jin, I.H.** and Liang, F. (2009) Bayesian analysis for exponential random graph models using the double Metropolis-Hastings sampler. Technical Report 2009-097. Institute for Applied Mathematics and Computer Science, Texas A&M University.
 
-2. *Brodersen, A.*, **Jin, I.H.**, Cheng, Y., and Jeon, M. (2021) Applying the Network Item Response Model to Student Assessment Data. ArXiv:2003.07657.
-
-
+2. *Brodersen, A.*, **Jin, I.H.**, Cheng, Y., and Jeon, M. (2021) [Applying the Network Item Response Model to Student Assessment Data.](https://arxiv.org/abs/2003.07657) ArXiv:2003.07657.
 
 
 
 
 <br>
 <br>
-<br>
-<br>
-<br>
 
 
 
-### Editorial Service {-}
+#### Editorial Service {-}
 
 ----
 
@@ -264,9 +308,6 @@ Students are italic. ＊ for as corresponding author.
 
 
 
-
-
-
 <br>
 <br>
 <br>
@@ -274,8 +315,16 @@ Students are italic. ＊ for as corresponding author.
 <br>
 
 
+### Scholarly Career {-}
 
-### Grant Proposal {-}
+
+
+
+
+
+
+
+#### Grant Proposal {-}
 
 ----
 
@@ -293,65 +342,11 @@ Students are italic. ＊ for as corresponding author.
 
 <br>
 <br>
-<br>
-<br>
-<br>
-
-
-
-### Teaching {-}
-
-----
-
-1. Texas A&M University, College Station, Texas USA 
-
-	- Lecturer
-		1. STAT 303: Statistical methods Summer 2009
-		2. STAT 201: Elementary statistical inference Fall 2009
-		3. STAT 201: Elementary statistical inference Spring 2010
-
-	- Teaching Assistant
-
-		1. STAT 211: Principal of Statistics (Fall 2006 - Spring 2009)
-		2. STAT 630: Overview of Mathematical Statistics (Fall 2010, Spring 2011)
-		3. STAT 611: Theory of Inference (Spring 2011)
-		4. STAT 303: Statistical Methods (Summer 2011)
-
-2. University of Notre Dame, Notre Dame, Indiana USA 
-
-	- Instructor
-		1. ACMS 40950: Topics in Statistics Fall 2015, 2016
-		2. ACMS 60886: Applied Bayesian Statistics II Spring 2016, 2018
-		3. ACMS 30540: Mathematical Statistics Fall 2016
-		4. ACMS 60888: Statistical Computing and Monte Carlo Spring 2017, Fall 2018
-		5. ACMS 30530: Introduction to Probability Fall 2017
-		6. ACMS 40878: Statistical Computing with R Fall 2017, 2018, Spring 2019
-
-3. Yonsei University, Seoul, Republic of Korea 
-
-	- Instructor
-		1. STA 4118: Causal Inference Fall 2019
-		2. STA 6172: Statistical Computing for Data Science II Fall 2019, Spring 2021
-		3. STA 4117: Data Science 2 - Network Data Analysis Spring 2020, Spring 2021
-		4. STA 6800: Statistical Analysis of Network Spring 2020
-		5. STA 6160: Bayesian Analysis Fall 2020
-		6. STA 6171: Statistical Computing for Data Science I Fall 2020
 
 
 
 
-
-
-
-
-<br>
-<br>
-<br>
-<br>
-<br>
-
-
-### Award {-}
+#### Award {-}
 
 ----
 
@@ -365,14 +360,10 @@ Students are italic. ＊ for as corresponding author.
 
 
 
-
-<br>
-<br>
-<br>
 <br>
 <br>
 
-### Invited Presentations {-}
+#### Invited Presentations {-}
 
 ----
 
@@ -424,11 +415,8 @@ Students are italic. ＊ for as corresponding author.
 
 <br>
 <br>
-<br>
-<br>
-<br>
 
-### Journal Referee {-}
+#### Journal Referee {-}
 
 ----
 
@@ -459,37 +447,34 @@ Students are italic. ＊ for as corresponding author.
 
 
 
-
-<br>
-<br>
-<br>
 <br>
 <br>
 
-### Academic Committee {-}
+#### Academic Committee {-}
 
 ----
 
 1. Chair of Master's Committee
 
-- Justin Luningham (2016; University of Notre Dame)
-- Alex Brodersen (2018; University of Notre Dame)
-- Chang Che (2019; University of Notre Dame)
-- Sunhee Park, Junyong Park, Suyoung Choi (2021. 02; Yonsei University)
-- Doyoung Song (Current; Yonsei University)
-- Hyunjoo Kim, Junghwan Lee (Current; Yonsei University)
-- Sangjun Eom, Eunyoung Ryu, Hyunyeong Kim (Current; Yonsei University)
+	- Justin Luningham (2016; University of Notre Dame)
+	- Alex Brodersen (2018; University of Notre Dame)
+	- Chang Che (2019; University of Notre Dame)
+	- Sunhee Park, Junyong Park, Suyoung Choi (2021. 02; Yonsei University)
+	- Doyoung Song (Current; Yonsei University)
+	- Hyunjoo Kim, Junghwan Lee (Current; Yonsei University)
+	- Sangjun Eom, Eunyoung Ryu, Hyunyeong Kim (Current; Yonsei University)
 
 2. Chair of Ph.D. Committee
 
-- Haiyan Liu (2018; University of Notre Dame)
-	- Co-advised with Zhiyong Johnny Zhang.
-	- Current Position: Assistant Professor at University of California, Merced.
-	- Topic: Structural Equation Modeling for Social Network.
-- Kisung You (Current; University of Notre Dame)
-- Jina Park (Current; Yonsei University)
-- Dongyoung Ko (Current; Yonsei University)
-- Yeseul Jeon (Current; Yonsei University)
+	- Haiyan Liu (2018; University of Notre Dame)
+		- Co-advised with Zhiyong Johnny Zhang.
+		- Current Position: Assistant Professor at University of California, Merced.
+		- Topic: Structural Equation Modeling for Social Network.
+	- Kisung You (Current; University of Notre Dame)
+	- Jina Park (Current; Yonsei University)
+	- Dongyoung Ko (Current; Yonsei University)
+	- Yeseul Jeon (Current; Yonsei University)
+
 
 
 
@@ -501,11 +486,8 @@ Students are italic. ＊ for as corresponding author.
 
 <br>
 <br>
-<br>
-<br>
-<br>
 
-### Professional Memberships {-}
+#### Professional Memberships {-}
 
 ----
 
@@ -521,41 +503,4 @@ Students are italic. ＊ for as corresponding author.
 
 
 
-
-
-
-<br>
-<br>
-<br>
-<br>
-<br>
-
-### Programming Languages {-}
-
-----
-
-C, R, Matlab, Julia, LaTeX.
-
-
-
-
-#### 교육 및 연구경력 {-}
-
-<hr style="border:2px solid gray"> </hr>
-
-
-
-
-
-
-#### 학술활동경력 {-}
-
-<hr style="border:2px solid gray"> </hr>
-
-
-
-
-#### 수상경력 {-}
-
-<hr style="border:2px solid gray"> </hr>
 
