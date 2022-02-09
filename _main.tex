@@ -1,0 +1,869 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+%
+\documentclass[
+]{book}
+\author{}
+\date{\vspace{-2.5em}}
+
+\usepackage{amsmath,amssymb}
+\usepackage{lmodern}
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math}
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\hypersetup{
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+\urlstyle{same} % disable monospaced font for URLs
+\usepackage{longtable,booktabs,array}
+\usepackage{calc} % for calculating minipage widths
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+\usepackage{graphicx}
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{5}
+\usepackage{booktabs}
+\ifLuaTeX
+  \usepackage{selnolig}  % disable illegal ligatures
+\fi
+\usepackage[]{natbib}
+\bibliographystyle{plainnat}
+
+\begin{document}
+
+{
+\setcounter{tocdepth}{1}
+\tableofcontents
+}
+\hypertarget{about-us}{%
+\chapter*{About us}\label{about-us}}
+\addcontentsline{toc}{chapter}{About us}
+
+\hypertarget{professor}{%
+\chapter*{Professor}\label{professor}}
+\addcontentsline{toc}{chapter}{Professor}
+
+\textbf{성명}
+
+진익훈
+
+\textbf{Contact}
+
+\emph{Cell}: 82-10-9164-1597
+\emph{Office}: 82-2-2123-2541
+\emph{E-mail}: \href{mailto:ijin@yonsei.ac.kr}{\nolinkurl{ijin@yonsei.ac.kr}}
+
+\textbf{Mailing}\textbf{Address}
+
+421 Daewoo Hall, Yonsei University
+50 Yonsei-ro, Seodaemun
+Seoul, Rep.~of Korea, 03722
+
+\hypertarget{programming-languages}{%
+\subsubsection*{Programming Languages}\label{programming-languages}}
+\addcontentsline{toc}{subsubsection}{Programming Languages}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+C, R, Matlab, Julia, LaTeX.
+
+\hypertarget{academic-appointment}{%
+\section*{Academic Appointment}\label{academic-appointment}}
+\addcontentsline{toc}{section}{Academic Appointment}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\begin{itemize}
+\item
+  Yonsei University, Seoul, Republic of Korea.
+  Assistant Professor, Department of Applied Statistics, Sept.~2019 - .
+\item
+  University of Notre Dame, Notre Dame, Indiana.
+  Assistant Professor, Department of Applied and Computational Mathematics and Statistics, July 2015 - May 2019.
+\item
+  The Ohio State University Wexner Medical Center, Columbus, Ohio.
+  Research Scientist, Center for Biostatistics, September 2014 - June 2015.
+\item
+  The University of Texas MD Anderson Cancer Center, Houston, Texas.
+  Postdoctoral Fellow, Biostatistics, August 2011 - August 2014.
+  \emph{Mentor: Dr.~Ying Yuan and Dr.~Peter F. Thall}
+\end{itemize}
+
+\hypertarget{education}{%
+\subsubsection*{Education}\label{education}}
+\addcontentsline{toc}{subsubsection}{Education}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\begin{itemize}
+\item
+  Texas A\&M University, College Station, Texas.
+  Ph.D., Statistics, August 2011.
+  \emph{Advisor: Dr.~Faming Liang}
+\item
+  Yonsei University, Seoul, Republic of Korea.
+  M.A., Applied Statistics, February 2006.
+  B.A., Applied Statistics, Business Administration, February 2004.
+\end{itemize}
+
+\hypertarget{teaching}{%
+\subsubsection*{Teaching}\label{teaching}}
+\addcontentsline{toc}{subsubsection}{Teaching}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  Texas A\&M University, College Station, Texas USA
+
+  \begin{itemize}
+  \item
+    \textbf{Lecturer}
+
+    \begin{enumerate}
+    \def\labelenumii{\arabic{enumii}.}
+    \tightlist
+    \item
+      STAT 303: Statistical methods Summer 2009
+    \item
+      STAT 201: Elementary statistical inference Fall 2009
+    \item
+      STAT 201: Elementary statistical inference Spring 2010
+    \end{enumerate}
+  \item
+    \textbf{Teaching Assistant}
+
+    \begin{enumerate}
+    \def\labelenumii{\arabic{enumii}.}
+    \tightlist
+    \item
+      STAT 211: Principal of Statistics (Fall 2006 - Spring 2009)
+    \item
+      STAT 630: Overview of Mathematical Statistics (Fall 2010, Spring 2011)
+    \item
+      STAT 611: Theory of Inference (Spring 2011)
+    \item
+      STAT 303: Statistical Methods (Summer 2011)
+    \end{enumerate}
+  \end{itemize}
+\end{enumerate}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{1}
+\item
+  University of Notre Dame, Notre Dame, Indiana USA
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \textbf{Instructor}
+
+    \begin{enumerate}
+    \def\labelenumii{\arabic{enumii}.}
+    \tightlist
+    \item
+      ACMS 40950: Topics in Statistics Fall 2015, 2016
+    \item
+      ACMS 60886: Applied Bayesian Statistics II Spring 2016, 2018
+    \item
+      ACMS 30540: Mathematical Statistics Fall 2016
+    \item
+      ACMS 60888: Statistical Computing and Monte Carlo Spring 2017, Fall 2018
+    \item
+      ACMS 30530: Introduction to Probability Fall 2017
+    \item
+      ACMS 40878: Statistical Computing with R Fall 2017, 2018, Spring 2019
+    \end{enumerate}
+  \end{itemize}
+\end{enumerate}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{2}
+\item
+  Yonsei University, Seoul, Republic of Korea
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \textbf{Instructor}
+
+    \begin{enumerate}
+    \def\labelenumii{\arabic{enumii}.}
+    \tightlist
+    \item
+      STA 4118: Causal Inference Fall 2019
+    \item
+      STA 6172: Statistical Computing for Data Science II Fall 2019, Spring 2021
+    \item
+      STA 4117: Data Science 2 - Network Data Analysis Spring 2020, Spring 2021
+    \item
+      STA 6800: Statistical Analysis of Network Spring 2020
+    \item
+      STA 6160: Bayesian Analysis Fall 2020
+    \item
+      STA 6171: Statistical Computing for Data Science I Fall 2020
+    \end{enumerate}
+  \end{itemize}
+\end{enumerate}
+
+\hypertarget{publications}{%
+\section*{Publications}\label{publications}}
+\addcontentsline{toc}{section}{Publications}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+Students are italic. ＊ for as corresponding author.
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  \textbf{Jin, I.H.} and Liang, F. (2013) \href{https://www.researchgate.net/publication/241724330_Fitting_Social_Network_Models_Using_Varying_Truncation_Stochastic_Approximation_MCMC_Algorithm}{Fitting social network models using varying truncation stochastic approximation MCMC algorithms.} Journal of Computational and Graphical Statistics. Vol. 22. No.~4: pp.~927-952. \textbf{Selected as JCGS highlights at the Interface 2012: Future of Statistical Computing}
+\item
+  Liang, F. and \textbf{Jin, I.H.} (2013) \href{https://www.researchgate.net/publication/236264661_A_Monte_Carlo_Metropolis-Hastings_Algorithm_for_Sampling_from_Distributions_with_Intractable_Normalizing_Constants}{A Monte Carlo Metropolis-Hasting algorithms for sampling from distributions with intractable normalizing constants}. Neural Computation, Vol. 25. No.~8: pp.~2199-2234.
+\item
+  \textbf{Jin, I.H.}, Yuan, Y., and Liang, F. (2013) \href{https://www.researchgate.net/publication/260999601_Bayesian_Analysis_for_Exponential_Random_Graph_Models_Using_the_Adaptive_Exchange_Sampler}{Bayesian analysis for exponential random graph models using the adaptive exchange sampler}. Statistics and Its Interface, Vol. 6: pp.~559-576.
+\item
+  \textbf{Jin, I.H.} and Liang, F. (2014) \href{https://www.researchgate.net/publication/228682695_Use_of_SAMC_for_Bayesian_Analysis_of_Statistical_Models_with_Intractable_Normalizing_Constants}{Use of SAMC for Bayesian analysis of statistical models with intractable normalizing constants}. Computational Statistics and Data Analysis. Vol. 71: pp.~402-416.
+\item
+  \textbf{Jin, I.H.}, Liu, S., Thall, P. F., and Yuan, Y. (2014) \href{https://pubmed.ncbi.nlm.nih.gov/25382884/}{Using data augmentation to facilitate conduct of phase Ⅰ/Ⅱ clinical trials with delayed outcomes}. Journal of the American Statistical Association. Vol. 109. No.~506: pp.~525-536.
+\item
+  \textbf{Jin, I.H.}, Huo, L., Yin, G., and Yuan, Y. (2015) \href{https://pubmed.ncbi.nlm.nih.gov/25641851/}{Phase Ⅰ trial design for drug combinations with Bayesian model averaging}. Pharmaceutical Statistics, Vol. 14. No.~2: pp.~109-119.
+\item
+  Liang, F., \textbf{Jin, I.H.}, Song, Q, and J.S. Liu. (2016) \href{https://www.researchgate.net/publication/272376704_An_Adaptive_Exchange_Algorithm_for_Sampling_From_Distributions_With_Intractable_Normalizing_Constants}{An adaptive exchange algorithm for sampling from distribution with intractable normalizing constants}. Journal of the American Statistical Association. Vol. 111. No.~513: pp.~377-393.
+\item
+  \textbf{Jin, I.H.}, Yuan, Y., and Bandyopadhyay, D. (2016) \href{https://www.researchgate.net/publication/305627921_A_Bayesian_hierarchical_spatial_model_for_dental_caries_assessment_using_non-Gaussian_Markov_random_fields}{A Bayesian hierarchical spatial model for dental caries assessments using non-gaussian Markov random fields}. The Annals of Applied Statistics. Vol. 10. No.~2: pp.~884-905.
+\item
+  \emph{Liu, H.}, \textbf{Jin, I.H.} and, Zhang, Z. (2018) \href{https://www.researchgate.net/publication/329215082_Structural_Equation_Modeling_of_Social_Networks_Specification_Estimation_and_Application}{Structural Equation Modeling of Social Networks: Specification, Estimation, and Application}. Multivariate Behavioral Research, Vol. 53. No.~5: pp.714-730. \textbf{Awarded Tanaka Award: Most Outstanding Article in Multivariate Behavioral Research Volume 53.}
+\item
+  \textbf{Jin, I.H.}＊ and Jeon, M. (2019) \href{https://www.researchgate.net/publication/326276196_A_Doubly_Latent_Space_Joint_Model_for_Local_Item_and_Person_Dependence_in_the_Analysis_of_Item_Response_Data}{A Doubly Latent Space Joint Model for Local Item and Person Dependence in the Analysis of Item Response Data}. Psychometrika, Vol. 84. No.~1: pp.~236-260.
+\item
+  Nam, J. H., Yun, J., \textbf{Jin, I.H.}＊, and Chung, D. (2020) \href{https://www.researchgate.net/publication/341850019_hubViz_A_Novel_Tool_for_Hub-centric_Visualization}{hubViz: A Novel Tool for Hub-centric Visualization}. Chemometrics and Intelligent Laboratory Systems. Vol. 203. 104071.
+\item
+  Yun, J., Shin, M., \textbf{Jin, I.H.}＊, and Liang, F. (2020) \href{https://arxiv.org/abs/1810.04811}{Stochastic approximation Hamiltonian Monte Carlo}. Journal of Statistical Computation and Simulation. Vol. 90. No.~17: pp.~3135-3156.
+\item
+  \emph{Che, C.}, \textbf{Jin, I.H.}, and Zhang, Z. (2021) \href{https://www.researchgate.net/publication/339371541_Network_Mediation_Analysis_Using_Model-Based_Eigenvalue_Decomposition}{Network Mediation Analysis Using Model-based Eigenvalue Decompositiong}. Structural Equation Modelin. Vol. 28. No.~1: pp.~148-161.
+\item
+  \emph{Liu, H.}, \textbf{Jin, I.H.}, Zhang, Z, and Yuan, Y. (2021) \href{https://arxiv.org/abs/1810.03751}{Social Network Mediation Analysis: Latent Space Approach}. Psychometrika. Vol. 86. No.~1: pp.~272-298.
+\item
+  Jeon, M., \textbf{Jin, I.H.}, Schweinberger, M., and Baugh, S. (2021) \href{https://arxiv.org/abs/2007.08719}{Mapping unobserved item-respondent interactions: A latent space item response model with interaction map}. Psychometrika. Vol. 86. No.~2: pp.~378-403.
+\item
+  Y. Zhang, S. Cao, C. Zhang, \textbf{Jin, I.H.}, and Zang, Y. (2021) \href{https://doi.org/10.1111/biom.13347}{A Bayesian Adaptive Phase I/II Clinical Trial Design with Late-onset Competing Risk Outcomes.} Biometrics. In Press.
+\item
+  Park, J., \textbf{Jin, I.H.}＊, and Schweinberger, M. (2022) \href{https://arxiv.org/abs/1911.07142}{Bayesian Model Selection for High-Dimensional Ising Models, with Applications to Educational Data}. Computational Statistics and Data Analysis. Vol. 125: Article 107325.
+\item
+  Park, J., \emph{Jeon, Y.}, Shin, M., Jeon, M., and \textbf{Jin, I.H.}＊ (2021) \href{https://arxiv.org/abs/2006.13698}{Bayesian Shrinkage for Functional Network Models, with Applications to Longitudinal Item Response Data. Revision Journal of Computational and Graphical Statistics.} Accepted. ArXiv:2006.13698.
+\end{enumerate}
+
+\hypertarget{submitted-manuscripts}{%
+\subsubsection*{Submitted Manuscripts}\label{submitted-manuscripts}}
+\addcontentsline{toc}{subsubsection}{Submitted Manuscripts}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  \textbf{Jin, I.H.}, Jeon, M., Schweinberger, M, and Lin, L. (2021) \href{https://arxiv.org/abs/1810.07876}{Hierarchical Network Item Response Modeling for Discovering Differences Between Innovation and Regular School Systems in Korea.} Revision Invited to Journal of Royal Statistical Society, Series C. ArXiv:1810.07876.
+\item
+  Liu, F., \emph{Eugenio, E.}, \textbf{Jin, I.H.}, and \emph{Bowen, C. M.} (2021) \href{https://www.osti.gov/biblio/1668697}{Differentially Private Synthesis of Social Network Structure via Exponential Random Graph Model}. Revision Invited to Journal of Survey Statistics and Methodology.
+\item
+  \textbf{Jin, I.H.}, Liu, F., \emph{Eugenio, E.}, Kim, J., and Liu, S. (2019) \href{https://arxiv.org/abs/1810.05297}{Bayesian Hierarchical Spatial Model for Small Area Estimation with Non-ignorable Nonresponses and Its Applications to the NHANES Dental Caries Assessments.} Revision Invited to Annals of Applied Statistics. ArXiv:1810.05297.
+\item
+  \emph{D. Ko}, M. Jeon, S. Lee, \textbf{Jin, I.H.}＊, and Park. H. (2021) Hidden Structure of How Children Think about Themselves Differs from What Parents Think about Their Children. Submitted to Plos One.
+\item
+  \emph{Jeon, Y.}, Chung, D., \emph{Park, J.}, and \textbf{Jin, I.H.}＊ (2021) \href{https://arxiv.org/abs/2106.07374}{Network-based Trajectory Topic Interaction Map for Text Mining of COVID-19 Biomedical Literature}. Submitted to Annals of Applied Statistics.
+\item
+  \emph{Kim, H.}, Jeon, Y.J., Kim, H.C., \textbf{Jin, I.H.}, and Jung, S.J. (2021) Application of latent space item response model to clustering stressful life events and Beck Depression Inventory-II: Results from Korean epidemiological survey data. Submitted to Psychological Medicine.
+\item
+  Park, J. Kang, S. and \textbf{Jin, I.H.} (2021) Control of Frequentist Type I Error Rates in Hierarchical Linear Models for Multiregional Clinical Trials Using a Bayesian Approach. Submitted to Journal of Biopharmaceutical Statistics.
+\item
+  \textbf{Jin, I.H.}＊, \emph{Park, J.}, and Jeon, M. (2021) \href{https://arxiv.org/abs/2109.05200}{How social network influences human behavior: An integrated latent space approach}. Submitted to Psychometrika.
+\end{enumerate}
+
+\hypertarget{refereed-conference-proceeding}{%
+\subsubsection*{Refereed Conference Proceeding}\label{refereed-conference-proceeding}}
+\addcontentsline{toc}{subsubsection}{Refereed Conference Proceeding}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Liu, F., \emph{Eugenio, E.}, Jin, I.H, \emph{Bowen, C. M.} (2020) \href{https://www.researchgate.net/publication/345376724_Differentially_Private_Generation_of_Social_Networks_via_Exponential_Random_Graph_Models}{Differentially Private Generation of Social Networks via Exponential Random Graph Models}, Proceedings of 2020 IEEE 44th Annual Computers, Software, and Applications Conference (COMPSAC). pp.~1695-1700.
+\end{enumerate}
+
+\hypertarget{ongoing-project}{%
+\subsubsection*{Ongoing Project}\label{ongoing-project}}
+\addcontentsline{toc}{subsubsection}{Ongoing Project}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  \emph{D. Ko}, \textbf{Jin, I.H.}, and Im, J. (2021) Bayesian Nonparametric quantile regression with multiple proxy variables.
+\item
+  \emph{Park, J.}, \emph{Hu, W.}, \textbf{Jin, I.H.}, Bakoyannis, G., Zhang, Y., and Zang, Y. (2021) Bayesian adaptive phase I/II clinical trial design with competing risk model in personalized medicine.
+\item
+  Yun, J., \emph{Kim, H.}, Jeon, M., \textbf{Jin, I.H.} (2021) Latent Space Accumulator Model for Interactions between Items and Respondents with Response Time
+\item
+  \emph{Hong, M.}, \textbf{Jin, I.H.}, and Lin, L. (2021) A latent space model with Gaussian process for sparse weighted network.
+\item
+  \emph{Ko, D.}, \emph{Park, J.}, \emph{Park, J.}, Jeon, M., and \textbf{Jin, I.H.} (2021) LSIRM: An R Package for a Latent Space Item Response Model with an Interaction Map.
+\item
+  \emph{You, K.}, Jeon, M., Kim, I., and \textbf{Jin, I.H.} (2021) Multiple Latent Spaces Comparisons Using the Topological Analysis.
+\end{enumerate}
+
+\hypertarget{unpublished-manuscript}{%
+\subsubsection*{Unpublished Manuscript}\label{unpublished-manuscript}}
+\addcontentsline{toc}{subsubsection}{Unpublished Manuscript}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  \textbf{Jin, I.H.} and Liang, F. (2009) Bayesian analysis for exponential random graph models using the double Metropolis-Hastings sampler. Technical Report 2009-097. Institute for Applied Mathematics and Computer Science, Texas A\&M University.
+\item
+  \emph{Brodersen, A.}, \textbf{Jin, I.H.}, Cheng, Y., and Jeon, M. (2021) \href{https://arxiv.org/abs/2003.07657}{Applying the Network Item Response Model to Student Assessment Data.} ArXiv:2003.07657.
+\end{enumerate}
+
+\hypertarget{editorial-service}{%
+\subsubsection*{Editorial Service}\label{editorial-service}}
+\addcontentsline{toc}{subsubsection}{Editorial Service}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\begin{itemize}
+\tightlist
+\item
+  Associate Editor, Communications for Statistical Applications and Methods, 2017 -
+\end{itemize}
+
+\hypertarget{scholarly-career}{%
+\section*{Scholarly Career}\label{scholarly-career}}
+\addcontentsline{toc}{section}{Scholarly Career}
+
+\hypertarget{grant-proposal}{%
+\subsubsection*{Grant Proposal}\label{grant-proposal}}
+\addcontentsline{toc}{subsubsection}{Grant Proposal}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\begin{itemize}
+\item
+  University of Notre Dame, Center for Informatics and Computational Sciences (2018 Seed Grant). ``Incorporating Uncertainty in Plant Growth into Models of Coastal Sediment Accretion.'' Role: Co-PI, Funded, \$32,000.
+\item
+  Yonsei University, Research Grant for New Faculty. ``Latent Space Rasch Model: Binary Item Response Matrix Using Network Modeling.'' 2019-2021. Role: PI, Funed, \$16,811.
+\item
+  Korean National Research Foundation. ``Latent Space Generalized Linear Model and Its Applications.'' 2020-2024. Role: PI, Funded, \$336,225.
+\end{itemize}
+
+\hypertarget{award}{%
+\subsubsection*{Award}\label{award}}
+\addcontentsline{toc}{subsubsection}{Award}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\begin{itemize}
+\tightlist
+\item
+  Korean International Statistical Society Career Development Award, 2017.
+\item
+  Tanaka Award: Most Outstanding Article in Multivariate Behavioral Research Volume 53.
+\end{itemize}
+
+\hypertarget{invited-presentations}{%
+\subsubsection*{Invited Presentations}\label{invited-presentations}}
+\addcontentsline{toc}{subsubsection}{Invited Presentations}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\begin{itemize}
+\tightlist
+\item
+  MD Anderson Cancer Center, February, 2011.
+\item
+  Complex Network Transition Workshop, SAMSI, June, 2011.
+\item
+  Interface 2012: Future of Statistical Computing, May, 2012.
+\item
+  Yonsei University, September, 2012.
+\item
+  Konkuk University, September, 2012.
+\item
+  University of California, Santa Cruz, February, 2013.
+\item
+  Louisiana State University, April, 2013.
+\item
+  Case Western Reserve University, May, 2013.
+\item
+  American Institute of Mathematics Workshop, June, 2013.
+\item
+  Joint Meeting of the IASC Satellite Conference for the 59th ISI WSC and the 8th Conference of the Asian Regional Section of the IASC, August, 2013.
+\item
+  The University of Texas Health Science Center at Houston, November, 2013.
+\item
+  Ohio State University Comprehensive Cancer Center, January, 2014.
+\item
+  University of Waterloo, January, 2014.
+\item
+  Washington University in St.~Louis, February, 2014.
+\item
+  University of Notre Dame, January, 2015.
+\item
+  Symposium on Early Phase Dose Finding Methodology, April, 2015.
+\item
+  KISS Invited Session, Korean Statistical Society Meeting 2016, May, 2016.
+\item
+  12th International Conference on MCQMC Method, August, 2016
+\item
+  Western Michigan University, October, 2016
+\item
+  University of Notre Dame (Department of Psychology), February, 2017
+\item
+  University of California, Los Angeles (Graduate School of Education and Information Studies), March, 2017
+\item
+  Statistical Inference for Biomedical Big Data Workshop, University of Florida, April, 2017
+\item
+  Clinical Trial Design in the Era of Precision Medicine-Progress and Challenge, Indiana University, April, 2017.
+\item
+  Purdue University, August, 2017.
+\item
+  Indiana University-Purdue University Indianapolis, December, 2017.
+\item
+  CMStatistics 2018, December, 2018.
+\item
+  Yale University, January, 2019.
+\item
+  University of California, San Francisco, March, 2019.
+\item
+  Inha University, September, 2019.
+\item
+  Annual Meeting of the International Society for Data Science and Analytics (Participated as Committee Member), May, 2020.
+\item
+  Joint Statistical Meeting (JSM) 2020, August, 2020.
+\item
+  Jeonnam National University, August, 2020.
+\item
+  Seoul National University, September, 2020.
+\item
+  Sungkyunkwan University, November, 2020.
+\item
+  Samsung Medical Research Center, December, 2020.
+\item
+  Korea University, April, 2021.
+\end{itemize}
+
+\hypertarget{journal-referee}{%
+\subsubsection*{Journal Referee}\label{journal-referee}}
+\addcontentsline{toc}{subsubsection}{Journal Referee}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\begin{itemize}
+\tightlist
+\item
+  Journal of the American Statistical Association
+\item
+  Journal of Computational and Graphical Statistics (3)
+\item
+  Bayesian Analysis (2)
+\item
+  Biometrics (2)
+\item
+  Bioinformatics
+\item
+  Computational Statistics and Data Analysis (8)
+\item
+  Psychometrika.
+\item
+  Structural Equation Modeling.
+\item
+  Multivariate Behavioral Research.
+\item
+  Spatial Statistics.
+\item
+  Journal of the Korean Statistical Society (2).
+\item
+  British Journal of Mathematical and Statistical Psychology
+\item
+  Statistics and Probability Letters
+\item
+  IEEE Transactions on Knowledge and Data Engineering
+\item
+  BMC Medical Research Methodology.
+\item
+  Plos One.
+\item
+  Neurocomputing (2).
+\item
+  Multivariate Behavioral Researches (2).
+\item
+  Structureal Equation Modeling
+\end{itemize}
+
+\hypertarget{academic-committee}{%
+\subsubsection*{Academic Committee}\label{academic-committee}}
+\addcontentsline{toc}{subsubsection}{Academic Committee}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  Chair of Master's Committee
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Justin Luningham (2016; University of Notre Dame)
+  \item
+    Alex Brodersen (2018; University of Notre Dame)
+  \item
+    Chang Che (2019; University of Notre Dame)
+  \item
+    Sunhee Park, Junyong Park, Suyoung Choi (2021. 02; Yonsei University)
+  \item
+    Doyoung Song (Current; Yonsei University)
+  \item
+    Hyunjoo Kim, Junghwan Lee (Current; Yonsei University)
+  \item
+    Sangjun Eom, Eunyoung Ryu, Hyunyeong Kim (Current; Yonsei University)
+  \end{itemize}
+\item
+  Chair of Ph.D.~Committee
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Haiyan Liu (2018; University of Notre Dame)
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Co-advised with Zhiyong Johnny Zhang.
+    \item
+      Current Position: Assistant Professor at University of California, Merced.
+    \item
+      Topic: Structural Equation Modeling for Social Network.
+    \end{itemize}
+  \item
+    Kisung You (Current; University of Notre Dame)
+  \item
+    Jina Park (Current; Yonsei University)
+  \item
+    Dongyoung Ko (Current; Yonsei University)
+  \item
+    Yeseul Jeon (Current; Yonsei University)
+  \end{itemize}
+\end{enumerate}
+
+\hypertarget{professional-memberships}{%
+\subsubsection*{Professional Memberships}\label{professional-memberships}}
+\addcontentsline{toc}{subsubsection}{Professional Memberships}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\begin{itemize}
+\tightlist
+\item
+  American Statistical Association
+\item
+  Institute of Mathematical Statistics
+\item
+  International Society of Bayesian Analysis
+\item
+  International Network of Social Network Analysis
+\item
+  Korean International Statistical Society
+\item
+  Korean Statistical Society
+\end{itemize}
+
+\hypertarget{lab-members}{%
+\chapter*{Lab Members}\label{lab-members}}
+\addcontentsline{toc}{chapter}{Lab Members}
+
+\hypertarget{uxbc15uxc0ac-uxd1b5uxd569uxacfcuxc815}{%
+\subsection*{박사 / 통합과정}\label{uxbc15uxc0ac-uxd1b5uxd569uxacfcuxc815}}
+\addcontentsline{toc}{subsection}{박사 / 통합과정}
+
+성명
+
+전예슬
+
+이메일
+
+\href{mailto:jeons9677@gmail.com}{\nolinkurl{jeons9677@gmail.com}}
+
+통합과정 (2019-1)
+
+연구실
+
+대우관 614호
+
+성명
+
+강나윤
+
+이메일
+
+\href{mailto:nayoonkang@yonsei.ac.kr}{\nolinkurl{nayoonkang@yonsei.ac.kr}}
+
+통합과정 (2019-1)
+
+연구실
+
+대우관 428호
+
+성명
+
+고동영
+
+이메일
+
+\href{mailto:dy4091@naver.com}{\nolinkurl{dy4091@naver.com}}
+
+통합과정 (2019-2)
+
+연구실
+
+대우관 410호
+
+성명
+
+김인균
+
+이메일
+
+\href{mailto:kiminkyun7@hanmail.net}{\nolinkurl{kiminkyun7@hanmail.net}}
+
+통합과정 (2021-1)
+
+연구실
+
+대우관 322호
+
+성명
+
+박진아
+
+이메일
+
+\href{mailto:pja0707@yonsei.ac.kr}{\nolinkurl{pja0707@yonsei.ac.kr}}
+
+통합과정 (2019-1)
+
+연구실
+
+대우관 401호
+
+\hypertarget{uxc11duxc0acuxacfcuxc815}{%
+\subsection*{석사과정}\label{uxc11duxc0acuxacfcuxc815}}
+\addcontentsline{toc}{subsection}{석사과정}
+
+성명
+
+김현주
+
+이메일
+
+\href{mailto:hyunjookim11@naver.com}{\nolinkurl{hyunjookim11@naver.com}}
+
+석사과정 (2020-1)
+
+연구실
+
+대우관 601호
+
+성명
+
+엄상준
+
+이메일
+
+\href{mailto:esj205@naver.com}{\nolinkurl{esj205@naver.com}}
+
+석사과정 (2020-2)
+
+연구실
+
+대우관 410호
+
+성명
+
+옥서연
+
+이메일
+
+\href{mailto:syook@yonsei.ac.kr}{\nolinkurl{syook@yonsei.ac.kr}}
+
+석사과정 (2020-1)
+
+연구실
+
+대우관 429호
+
+성명
+
+유은영
+
+이메일
+
+\href{mailto:uare0@yonsei.ac.kr}{\nolinkurl{uare0@yonsei.ac.kr}}
+
+석사과정 (2021-1)
+
+연구실
+
+대우관 422호
+
+성명
+
+이승원
+
+이메일
+
+연구실
+
+성명
+
+김현영
+
+이메일
+
+\href{mailto:djfgxzk@naver.com}{\nolinkurl{djfgxzk@naver.com}}
+
+석사과정 (2021-1)
+
+연구실
+
+대우관 428호
+
+성명
+
+이정환
+
+이메일
+
+\href{mailto:junghwn1107@naver.com}{\nolinkurl{junghwn1107@naver.com}}
+
+석사과정 (2020-1)
+
+연구실
+
+대우관 601호
+
+성명
+
+임수린
+
+이메일
+
+\href{mailto:srlim@yonsei.ac.kr}{\nolinkurl{srlim@yonsei.ac.kr}}
+
+석사과정 (2019-1)
+
+연구실
+
+대우관 422호
+
+성명
+
+송종호
+
+이메일
+
+\href{mailto:jh.song@yonsei.ac.kr}{\nolinkurl{jh.song@yonsei.ac.kr}}
+
+연구분야
+
+b
+
+성명
+
+조수연
+
+이메일
+
+\href{mailto:tnduss521@naver.com}{\nolinkurl{tnduss521@naver.com}}
+
+석사과정 (2021-2)
+
+연구실
+
+\hypertarget{alumni}{%
+\subsection*{Alumni}\label{alumni}}
+\addcontentsline{toc}{subsection}{Alumni}
+
+성명
+
+지원
+
+이메일
+
+연구실
+
+성명
+
+최석준
+
+이메일
+
+연구실
+
+  \bibliography{book.bib,packages.bib}
+
+\end{document}

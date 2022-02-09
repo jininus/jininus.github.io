@@ -161,39 +161,52 @@ B.A., Applied Statistics, Business Administration, February 2004.
 
 Students are italic. ＊ for as corresponding author.
 	
-1. **Jin, I.H.** and Liang, F. (2013) Fitting social network models using varying truncation stochastic approximation MCMC algorithms. Journal of Computational and Graphical Statistics. Vol. 22. No. 4: pp. 927-952. <br>**Selected as JCGS highlights at the Interface 2012: Future of Statistical Computing**
+1. **Jin, I.H.** and Liang, F. (2013) [Fitting social network models using varying truncation stochastic approximation MCMC algorithms.](https://www.researchgate.net/publication/241724330_Fitting_Social_Network_Models_Using_Varying_Truncation_Stochastic_Approximation_MCMC_Algorithm) Journal of Computational and Graphical Statistics. Vol. 22. No. 4: pp. 927-952. <br>**Selected as JCGS highlights at the Interface 2012: Future of Statistical Computing**
 
-2. Liang, F. and **Jin, I.H.** (2013) A Monte Carlo Metropolis-Hasting algorithms for sampling from distributions with intractable normalizing constants. Neural Computation, Vol. 25. No. 8: pp. 2199-2234.
 
-3. **Jin, I.H.**, Yuan, Y., and Liang, F. (2013) Bayesian analysis for exponential random graph models using the adaptive exchange sampler. Statistics and Its Interface, Vol. 6: pp. 559-576.
 
-4. **Jin, I.H.** and Liang, F. (2014) Use of SAMC for Bayesian analysis of statistical models with intractable normalizing constants. Computational Statistics and Data Analysis. Vol. 71: pp. 402-416.
+2. Liang, F. and **Jin, I.H.** (2013) [A Monte Carlo Metropolis-Hasting algorithms for sampling from distributions with intractable normalizing constants](https://www.researchgate.net/publication/236264661_A_Monte_Carlo_Metropolis-Hastings_Algorithm_for_Sampling_from_Distributions_with_Intractable_Normalizing_Constants). Neural Computation, Vol. 25. No. 8: pp. 2199-2234.
 
-5. **Jin, I.H.**, Liu, S., Thall, P. F., and Yuan, Y. (2014) Using data augmentation to facilitate conduct of phase Ⅰ/Ⅱ clinical trials with delayed outcomes. Journal of the American Statistical Association. Vol. 109. No. 506: pp. 525-536.
+3. **Jin, I.H.**, Yuan, Y., and Liang, F. (2013) [Bayesian analysis for exponential random graph models using the adaptive exchange sampler](https://www.researchgate.net/publication/260999601_Bayesian_Analysis_for_Exponential_Random_Graph_Models_Using_the_Adaptive_Exchange_Sampler). Statistics and Its Interface, Vol. 6: pp. 559-576.
 
-6. **Jin, I.H.**, Huo, L., Yin, G., and Yuan, Y. (2015) Phase Ⅰ trial design for drug combinations with Bayesian model averaging. Pharmaceutical Statistics, Vol. 14. No. 2: pp. 109-119.
 
-7. Liang, F., **Jin, I.H.**, Song, Q, and J.S. Liu. (2016) An adaptive exchange algorithm for sampling from distribution with intractable normalizing constants. Journal of the American Statistical Association. Vol. 111. No. 513: pp. 377-393.
 
-8. **Jin, I.H.**, Yuan, Y., and Bandyopadhyay, D. (2016) A Bayesian hierarchical spatial model for dental caries assessments using non-gaussian Markov random fields. The Annals of Applied Statistics. Vol. 10. No. 2: pp. 884-905.
 
-9. *Liu, H.*, **Jin, I.H.** and, Zhang, Z. (2018) Structural Equation Modeling of Social Networks: Specification, Estimation, and Applications. Multivariate Behavioral Research, Vol. 53. No. 5: pp.714-730. <br>**Awarded Tanaka Award: Most Outstanding Article in Multivariate Behavioral Research Volume 53.**
+4. **Jin, I.H.** and Liang, F. (2014) [Use of SAMC for Bayesian analysis of statistical models with intractable normalizing constants](https://www.researchgate.net/publication/228682695_Use_of_SAMC_for_Bayesian_Analysis_of_Statistical_Models_with_Intractable_Normalizing_Constants). Computational Statistics and Data Analysis. Vol. 71: pp. 402-416.
 
-10. **Jin, I.H.**＊ and Jeon, M. (2019) A doubly latent space joint model for local item and person dependence in item response analysis. Psychometrika, Vol. 84. No. 1: pp. 236-260.
 
-11. Nam, J. H., Yun, J., **Jin, I.H.**＊, and Chung, D. (2020) hubViz: A Novel Tool for Hub-centric Visualization. Chemometrics and Intelligent Laboratory Systems. Vol. 203. 104071.
 
-12. Yun, J., Shin, M., **Jin, I.H.**＊, and Liang, F. (2020) Stochastic approximation Hamiltonian Monte Carlo. Journal of Statistical Computation and Simulation. Vol. 90. No. 17: pp. 3135-3156.
+5. **Jin, I.H.**, Liu, S., Thall, P. F., and Yuan, Y. (2014) [Using data augmentation to facilitate conduct of phase Ⅰ/Ⅱ clinical trials with delayed outcomes](https://pubmed.ncbi.nlm.nih.gov/25382884/). Journal of the American Statistical Association. Vol. 109. No. 506: pp. 525-536.
 
-13. *Che, C.*, **Jin, I.H.**, and Zhang, Z. (2021) Network Mediation Analysis Using Model-based Eigenvalue Decomposition. Structural Equation Modeling. Vol. 28. No. 1: pp. 148-161.
+6. **Jin, I.H.**, Huo, L., Yin, G., and Yuan, Y. (2015) [Phase Ⅰ trial design for drug combinations with Bayesian model averaging](https://pubmed.ncbi.nlm.nih.gov/25641851/). Pharmaceutical Statistics, Vol. 14. No. 2: pp. 109-119.
 
-14. *Liu, H.*, **Jin, I.H.**, Zhang, Z, and Yuan, Y. (2021) Social Network Mediation Analysis: Latent Space Approach. Psychometrika. Vol. 86. No. 1: pp. 272-298.
 
-15. Jeon, M., **Jin, I.H.**, Schweinberger, M., and Baugh, S. (2021) Mapping unobserved item-respondent interactions: A latent space item response model with interaction map. Psychometrika. Vol. 86. No. 2: pp. 378-403.
+
+7. Liang, F., **Jin, I.H.**, Song, Q, and J.S. Liu. (2016) [An adaptive exchange algorithm for sampling from distribution with intractable normalizing constants](https://www.researchgate.net/publication/272376704_An_Adaptive_Exchange_Algorithm_for_Sampling_From_Distributions_With_Intractable_Normalizing_Constants). Journal of the American Statistical Association. Vol. 111. No. 513: pp. 377-393.
+
+8. **Jin, I.H.**, Yuan, Y., and Bandyopadhyay, D. (2016) [A Bayesian hierarchical spatial model for dental caries assessments using non-gaussian Markov random fields](https://www.researchgate.net/publication/305627921_A_Bayesian_hierarchical_spatial_model_for_dental_caries_assessment_using_non-Gaussian_Markov_random_fields). The Annals of Applied Statistics. Vol. 10. No. 2: pp. 884-905.
+
+
+
+9. *Liu, H.*, **Jin, I.H.** and, Zhang, Z. (2018) [Structural Equation Modeling of Social Networks: Specification, Estimation, and Application](https://www.researchgate.net/publication/329215082_Structural_Equation_Modeling_of_Social_Networks_Specification_Estimation_and_Application). Multivariate Behavioral Research, Vol. 53. No. 5: pp.714-730. <br>**Awarded Tanaka Award: Most Outstanding Article in Multivariate Behavioral Research Volume 53.**
+
+
+
+10. **Jin, I.H.**＊ and Jeon, M. (2019) [A Doubly Latent Space Joint Model for Local Item and Person Dependence in the Analysis of Item Response Data](https://www.researchgate.net/publication/326276196_A_Doubly_Latent_Space_Joint_Model_for_Local_Item_and_Person_Dependence_in_the_Analysis_of_Item_Response_Data). Psychometrika, Vol. 84. No. 1: pp. 236-260.
+
+11. Nam, J. H., Yun, J., **Jin, I.H.**＊, and Chung, D. (2020) [hubViz: A Novel Tool for Hub-centric Visualization](https://www.researchgate.net/publication/341850019_hubViz_A_Novel_Tool_for_Hub-centric_Visualization). Chemometrics and Intelligent Laboratory Systems. Vol. 203. 104071.
+
+12. Yun, J., Shin, M., **Jin, I.H.**＊, and Liang, F. (2020) [Stochastic approximation Hamiltonian Monte Carlo](https://arxiv.org/abs/1810.04811). Journal of Statistical Computation and Simulation. Vol. 90. No. 17: pp. 3135-3156.
+
+13. *Che, C.*, **Jin, I.H.**, and Zhang, Z. (2021) [Network Mediation Analysis Using Model-based Eigenvalue Decompositiong](https://www.researchgate.net/publication/339371541_Network_Mediation_Analysis_Using_Model-Based_Eigenvalue_Decomposition). Structural Equation Modelin. Vol. 28. No. 1: pp. 148-161.
+
+14. *Liu, H.*, **Jin, I.H.**, Zhang, Z, and Yuan, Y. (2021) [Social Network Mediation Analysis: Latent Space Approach](https://arxiv.org/abs/1810.03751). Psychometrika. Vol. 86. No. 1: pp. 272-298.
+
+15. Jeon, M., **Jin, I.H.**, Schweinberger, M., and Baugh, S. (2021) [Mapping unobserved item-respondent interactions: A latent space item response model with interaction map](https://arxiv.org/abs/2007.08719). Psychometrika. Vol. 86. No. 2: pp. 378-403.
 
 16. Y. Zhang, S. Cao, C. Zhang, **Jin, I.H.**, and Zang, Y. (2021) [A Bayesian Adaptive Phase I/II Clinical Trial Design with Late-onset Competing Risk Outcomes.](https://doi.org/10.1111/biom.13347) Biometrics. In Press. 
 
-17. Park, J., **Jin, I.H.**＊, and Schweinberger, M. (2022) Bayesian Model Selection for High-Dimensional Ising Models, with Applications to Educational Data. Computational Statistics and Data Analysis. Vol. 125: Article 107325.
+17. Park, J., **Jin, I.H.**＊, and Schweinberger, M. (2022) [Bayesian Model Selection for High-Dimensional Ising Models, with Applications to Educational Data](https://arxiv.org/abs/1911.07142). Computational Statistics and Data Analysis. Vol. 125: Article 107325.
 
 18. Park, J., *Jeon, Y.*, Shin, M., Jeon, M., and **Jin, I.H.**＊ (2021) [Bayesian Shrinkage for Functional Network Models, with Applications to Longitudinal Item Response Data. Revision Journal of Computational and Graphical Statistics.](https://arxiv.org/abs/2006.13698) Accepted. ArXiv:2006.13698.
 
@@ -213,19 +226,20 @@ Students are italic. ＊ for as corresponding author.
 
 1. **Jin, I.H.**, Jeon, M., Schweinberger, M, and Lin, L. (2021) [Hierarchical Network Item Response Modeling for Discovering Differences Between Innovation and Regular School Systems in Korea.](https://arxiv.org/abs/1810.07876) Revision Invited to Journal of Royal Statistical Society, Series C. ArXiv:1810.07876.
 
-2. Liu, F., *Eugenio, E.*, **Jin, I.H.**, and *Bowen, C. M.* (2021) Differentially Private Synthesis of Social Network Structure via Exponential Random Graph Model. Revision Invited to Journal of Survey Statistics and Methodology.
+
+2. Liu, F., *Eugenio, E.*, **Jin, I.H.**, and *Bowen, C. M.* (2021) [Differentially Private Synthesis of Social Network Structure via Exponential Random Graph Model](https://www.osti.gov/biblio/1668697). Revision Invited to Journal of Survey Statistics and Methodology.
 
 3. **Jin, I.H.**, Liu, F., *Eugenio, E.*, Kim, J., and Liu, S. (2019) [Bayesian Hierarchical Spatial Model for Small Area Estimation with Non-ignorable Nonresponses and Its Applications to the NHANES Dental Caries Assessments.](https://arxiv.org/abs/1810.05297) Revision Invited to Annals of Applied Statistics. ArXiv:1810.05297. 
 
 4. *D. Ko*, M. Jeon, S. Lee, **Jin, I.H.**＊, and Park. H. (2021) Hidden Structure of How Children Think about Themselves Differs from What Parents Think about Their Children. Submitted to Plos One.
 
-5. *Jeon, Y.*, Chung, D., *Park, J.*, and **Jin, I.H.**＊ (2021) Network-based Trajectory Topic Interaction Map for Text Mining of COVID-19 Biomedical Literature. Submitted to Annals of Applied Statistics.
+5. *Jeon, Y.*, Chung, D., *Park, J.*, and **Jin, I.H.**＊ (2021) [Network-based Trajectory Topic Interaction Map for Text Mining of COVID-19 Biomedical Literature](https://arxiv.org/abs/2106.07374). Submitted to Annals of Applied Statistics.
 
 6. *Kim, H.*, Jeon, Y.J., Kim, H.C., **Jin, I.H.**, and Jung, S.J. (2021) Application of latent space item response model to clustering stressful life events and Beck Depression Inventory-II: Results from Korean epidemiological survey data. Submitted to Psychological Medicine.
 
 7. Park, J. Kang, S. and **Jin, I.H.** (2021) Control of Frequentist Type I Error Rates in Hierarchical Linear Models for Multiregional Clinical Trials Using a Bayesian Approach. Submitted to Journal of Biopharmaceutical Statistics.
 
-8. **Jin, I.H.**＊, *Park, J.*, and Jeon, M. (2021) How social network influences human behavior: An integrated latent space approach. Submitted to Psychometrika.
+8. **Jin, I.H.**＊, *Park, J.*, and Jeon, M. (2021) [How social network influences human behavior: An integrated latent space approach](https://arxiv.org/abs/2109.05200). Submitted to Psychometrika.
 
 
 
@@ -242,7 +256,7 @@ Students are italic. ＊ for as corresponding author.
 
 ----
 
-1. Liu, F., *Eugenio, E.*, Jin, I.H, *Bowen, C. M.* (2020) Differentially Private Generation of Social Networks via Exponential Random Graph Models, Proceedings of 2020 IEEE 44th Annual Computers, Software, and Applications Conference (COMPSAC). pp. 1695-1700.
+1. Liu, F., *Eugenio, E.*, Jin, I.H, *Bowen, C. M.* (2020) [Differentially Private Generation of Social Networks via Exponential Random Graph Models](https://www.researchgate.net/publication/345376724_Differentially_Private_Generation_of_Social_Networks_via_Exponential_Random_Graph_Models), Proceedings of 2020 IEEE 44th Annual Computers, Software, and Applications Conference (COMPSAC). pp. 1695-1700.
 
 
 
