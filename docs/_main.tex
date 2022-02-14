@@ -4,8 +4,8 @@
 %
 \documentclass[
 ]{book}
-\usepackage{amsmath,amssymb}
 \usepackage{lmodern}
+\usepackage{amssymb,amsmath}
 \usepackage{ifxetex,ifluatex}
 \ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
   \usepackage[T1]{fontenc}
@@ -39,8 +39,7 @@
   hidelinks,
   pdfcreator={LaTeX via pandoc}}
 \urlstyle{same} % disable monospaced font for URLs
-\usepackage{longtable,booktabs,array}
-\usepackage{calc} % for calculating minipage widths
+\usepackage{longtable,booktabs}
 % Correct order of tables after \paragraph or \subparagraph
 \usepackage{etoolbox}
 \makeatletter
@@ -49,7 +48,7 @@
 % Allow footnotes in longtable head/foot
 \IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
 \makesavenoteenv{longtable}
-\usepackage{graphicx}
+\usepackage{graphicx,grffile}
 \makeatletter
 \def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
 \def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
@@ -67,9 +66,6 @@
   \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
 \setcounter{secnumdepth}{5}
 \usepackage{booktabs}
-\ifluatex
-  \usepackage{selnolig}  % disable illegal ligatures
-\fi
 \usepackage[]{natbib}
 \bibliographystyle{plainnat}
 
@@ -267,39 +263,39 @@ Students are italic. ＊ for as corresponding author.
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
 \item
-  \textbf{Jin, I.H.} and Liang, F. (2013) Fitting social network models using varying truncation stochastic approximation MCMC algorithms. Journal of Computational and Graphical Statistics. Vol. 22. No.~4: pp.~927-952. \textbf{Selected as JCGS highlights at the Interface 2012: Future of Statistical Computing}
+  \textbf{Jin, I.H.} and Liang, F. (2013) \href{https://www.researchgate.net/publication/241724330_Fitting_Social_Network_Models_Using_Varying_Truncation_Stochastic_Approximation_MCMC_Algorithm}{Fitting social network models using varying truncation stochastic approximation MCMC algorithms.} Journal of Computational and Graphical Statistics. Vol. 22. No.~4: pp.~927-952. \textbf{Selected as JCGS highlights at the Interface 2012: Future of Statistical Computing}
 \item
-  Liang, F. and \textbf{Jin, I.H.} (2013) A Monte Carlo Metropolis-Hasting algorithms for sampling from distributions with intractable normalizing constants. Neural Computation, Vol. 25. No.~8: pp.~2199-2234.
+  Liang, F. and \textbf{Jin, I.H.} (2013) \href{https://www.researchgate.net/publication/236264661_A_Monte_Carlo_Metropolis-Hastings_Algorithm_for_Sampling_from_Distributions_with_Intractable_Normalizing_Constants}{A Monte Carlo Metropolis-Hasting algorithms for sampling from distributions with intractable normalizing constants}. Neural Computation, Vol. 25. No.~8: pp.~2199-2234.
 \item
-  \textbf{Jin, I.H.}, Yuan, Y., and Liang, F. (2013) Bayesian analysis for exponential random graph models using the adaptive exchange sampler. Statistics and Its Interface, Vol. 6: pp.~559-576.
+  \textbf{Jin, I.H.}, Yuan, Y., and Liang, F. (2013) \href{https://www.researchgate.net/publication/260999601_Bayesian_Analysis_for_Exponential_Random_Graph_Models_Using_the_Adaptive_Exchange_Sampler}{Bayesian analysis for exponential random graph models using the adaptive exchange sampler}. Statistics and Its Interface, Vol. 6: pp.~559-576.
 \item
-  \textbf{Jin, I.H.} and Liang, F. (2014) Use of SAMC for Bayesian analysis of statistical models with intractable normalizing constants. Computational Statistics and Data Analysis. Vol. 71: pp.~402-416.
+  \textbf{Jin, I.H.} and Liang, F. (2014) \href{https://www.researchgate.net/publication/228682695_Use_of_SAMC_for_Bayesian_Analysis_of_Statistical_Models_with_Intractable_Normalizing_Constants}{Use of SAMC for Bayesian analysis of statistical models with intractable normalizing constants}. Computational Statistics and Data Analysis. Vol. 71: pp.~402-416.
 \item
-  \textbf{Jin, I.H.}, Liu, S., Thall, P. F., and Yuan, Y. (2014) Using data augmentation to facilitate conduct of phase Ⅰ/Ⅱ clinical trials with delayed outcomes. Journal of the American Statistical Association. Vol. 109. No.~506: pp.~525-536.
+  \textbf{Jin, I.H.}, Liu, S., Thall, P. F., and Yuan, Y. (2014) \href{https://pubmed.ncbi.nlm.nih.gov/25382884/}{Using data augmentation to facilitate conduct of phase Ⅰ/Ⅱ clinical trials with delayed outcomes}. Journal of the American Statistical Association. Vol. 109. No.~506: pp.~525-536.
 \item
-  \textbf{Jin, I.H.}, Huo, L., Yin, G., and Yuan, Y. (2015) Phase Ⅰ trial design for drug combinations with Bayesian model averaging. Pharmaceutical Statistics, Vol. 14. No.~2: pp.~109-119.
+  \textbf{Jin, I.H.}, Huo, L., Yin, G., and Yuan, Y. (2015) \href{https://pubmed.ncbi.nlm.nih.gov/25641851/}{Phase Ⅰ trial design for drug combinations with Bayesian model averaging}. Pharmaceutical Statistics, Vol. 14. No.~2: pp.~109-119.
 \item
-  Liang, F., \textbf{Jin, I.H.}, Song, Q, and J.S. Liu. (2016) An adaptive exchange algorithm for sampling from distribution with intractable normalizing constants. Journal of the American Statistical Association. Vol. 111. No.~513: pp.~377-393.
+  Liang, F., \textbf{Jin, I.H.}, Song, Q, and J.S. Liu. (2016) \href{https://www.researchgate.net/publication/272376704_An_Adaptive_Exchange_Algorithm_for_Sampling_From_Distributions_With_Intractable_Normalizing_Constants}{An adaptive exchange algorithm for sampling from distribution with intractable normalizing constants}. Journal of the American Statistical Association. Vol. 111. No.~513: pp.~377-393.
 \item
-  \textbf{Jin, I.H.}, Yuan, Y., and Bandyopadhyay, D. (2016) A Bayesian hierarchical spatial model for dental caries assessments using non-gaussian Markov random fields. The Annals of Applied Statistics. Vol. 10. No.~2: pp.~884-905.
+  \textbf{Jin, I.H.}, Yuan, Y., and Bandyopadhyay, D. (2016) \href{https://www.researchgate.net/publication/305627921_A_Bayesian_hierarchical_spatial_model_for_dental_caries_assessment_using_non-Gaussian_Markov_random_fields}{A Bayesian hierarchical spatial model for dental caries assessments using non-gaussian Markov random fields}. The Annals of Applied Statistics. Vol. 10. No.~2: pp.~884-905.
 \item
-  \emph{Liu, H.}, \textbf{Jin, I.H.} and, Zhang, Z. (2018) Structural Equation Modeling of Social Networks: Specification, Estimation, and Applications. Multivariate Behavioral Research, Vol. 53. No.~5: pp.714-730. \textbf{Awarded Tanaka Award: Most Outstanding Article in Multivariate Behavioral Research Volume 53.}
+  \emph{Liu, H.}, \textbf{Jin, I.H.} and, Zhang, Z. (2018) \href{https://www.researchgate.net/publication/329215082_Structural_Equation_Modeling_of_Social_Networks_Specification_Estimation_and_Application}{Structural Equation Modeling of Social Networks: Specification, Estimation, and Application}. Multivariate Behavioral Research, Vol. 53. No.~5: pp.714-730. \textbf{Awarded Tanaka Award: Most Outstanding Article in Multivariate Behavioral Research Volume 53.}
 \item
-  \textbf{Jin, I.H.}＊ and Jeon, M. (2019) A doubly latent space joint model for local item and person dependence in item response analysis. Psychometrika, Vol. 84. No.~1: pp.~236-260.
+  \textbf{Jin, I.H.}＊ and Jeon, M. (2019) \href{https://www.researchgate.net/publication/326276196_A_Doubly_Latent_Space_Joint_Model_for_Local_Item_and_Person_Dependence_in_the_Analysis_of_Item_Response_Data}{A Doubly Latent Space Joint Model for Local Item and Person Dependence in the Analysis of Item Response Data}. Psychometrika, Vol. 84. No.~1: pp.~236-260.
 \item
-  Nam, J. H., Yun, J., \textbf{Jin, I.H.}＊, and Chung, D. (2020) hubViz: A Novel Tool for Hub-centric Visualization. Chemometrics and Intelligent Laboratory Systems. Vol. 203. 104071.
+  Nam, J. H., Yun, J., \textbf{Jin, I.H.}＊, and Chung, D. (2020) \href{https://www.researchgate.net/publication/341850019_hubViz_A_Novel_Tool_for_Hub-centric_Visualization}{hubViz: A Novel Tool for Hub-centric Visualization}. Chemometrics and Intelligent Laboratory Systems. Vol. 203. 104071.
 \item
-  Yun, J., Shin, M., \textbf{Jin, I.H.}＊, and Liang, F. (2020) Stochastic approximation Hamiltonian Monte Carlo. Journal of Statistical Computation and Simulation. Vol. 90. No.~17: pp.~3135-3156.
+  Yun, J., Shin, M., \textbf{Jin, I.H.}＊, and Liang, F. (2020) \href{https://arxiv.org/abs/1810.04811}{Stochastic approximation Hamiltonian Monte Carlo}. Journal of Statistical Computation and Simulation. Vol. 90. No.~17: pp.~3135-3156.
 \item
-  \emph{Che, C.}, \textbf{Jin, I.H.}, and Zhang, Z. (2021) Network Mediation Analysis Using Model-based Eigenvalue Decomposition. Structural Equation Modeling. Vol. 28. No.~1: pp.~148-161.
+  \emph{Che, C.}, \textbf{Jin, I.H.}, and Zhang, Z. (2021) \href{https://www.researchgate.net/publication/339371541_Network_Mediation_Analysis_Using_Model-Based_Eigenvalue_Decomposition}{Network Mediation Analysis Using Model-based Eigenvalue Decompositiong}. Structural Equation Modelin. Vol. 28. No.~1: pp.~148-161.
 \item
-  \emph{Liu, H.}, \textbf{Jin, I.H.}, Zhang, Z, and Yuan, Y. (2021) Social Network Mediation Analysis: Latent Space Approach. Psychometrika. Vol. 86. No.~1: pp.~272-298.
+  \emph{Liu, H.}, \textbf{Jin, I.H.}, Zhang, Z, and Yuan, Y. (2021) \href{https://arxiv.org/abs/1810.03751}{Social Network Mediation Analysis: Latent Space Approach}. Psychometrika. Vol. 86. No.~1: pp.~272-298.
 \item
-  Jeon, M., \textbf{Jin, I.H.}, Schweinberger, M., and Baugh, S. (2021) Mapping unobserved item-respondent interactions: A latent space item response model with interaction map. Psychometrika. Vol. 86. No.~2: pp.~378-403.
+  Jeon, M., \textbf{Jin, I.H.}, Schweinberger, M., and Baugh, S. (2021) \href{https://arxiv.org/abs/2007.08719}{Mapping unobserved item-respondent interactions: A latent space item response model with interaction map}. Psychometrika. Vol. 86. No.~2: pp.~378-403.
 \item
   Y. Zhang, S. Cao, C. Zhang, \textbf{Jin, I.H.}, and Zang, Y. (2021) \href{https://doi.org/10.1111/biom.13347}{A Bayesian Adaptive Phase I/II Clinical Trial Design with Late-onset Competing Risk Outcomes.} Biometrics. In Press.
 \item
-  Park, J., \textbf{Jin, I.H.}＊, and Schweinberger, M. (2022) Bayesian Model Selection for High-Dimensional Ising Models, with Applications to Educational Data. Computational Statistics and Data Analysis. Vol. 125: Article 107325.
+  Park, J., \textbf{Jin, I.H.}＊, and Schweinberger, M. (2022) \href{https://arxiv.org/abs/1911.07142}{Bayesian Model Selection for High-Dimensional Ising Models, with Applications to Educational Data}. Computational Statistics and Data Analysis. Vol. 125: Article 107325.
 \item
   Park, J., \emph{Jeon, Y.}, Shin, M., Jeon, M., and \textbf{Jin, I.H.}＊ (2021) \href{https://arxiv.org/abs/2006.13698}{Bayesian Shrinkage for Functional Network Models, with Applications to Longitudinal Item Response Data. Revision Journal of Computational and Graphical Statistics.} Accepted. ArXiv:2006.13698.
 \end{enumerate}
@@ -315,19 +311,19 @@ Students are italic. ＊ for as corresponding author.
 \item
   \textbf{Jin, I.H.}, Jeon, M., Schweinberger, M, and Lin, L. (2021) \href{https://arxiv.org/abs/1810.07876}{Hierarchical Network Item Response Modeling for Discovering Differences Between Innovation and Regular School Systems in Korea.} Revision Invited to Journal of Royal Statistical Society, Series C. ArXiv:1810.07876.
 \item
-  Liu, F., \emph{Eugenio, E.}, \textbf{Jin, I.H.}, and \emph{Bowen, C. M.} (2021) Differentially Private Synthesis of Social Network Structure via Exponential Random Graph Model. Revision Invited to Journal of Survey Statistics and Methodology.
+  Liu, F., \emph{Eugenio, E.}, \textbf{Jin, I.H.}, and \emph{Bowen, C. M.} (2021) \href{https://www.osti.gov/biblio/1668697}{Differentially Private Synthesis of Social Network Structure via Exponential Random Graph Model}. Revision Invited to Journal of Survey Statistics and Methodology.
 \item
   \textbf{Jin, I.H.}, Liu, F., \emph{Eugenio, E.}, Kim, J., and Liu, S. (2019) \href{https://arxiv.org/abs/1810.05297}{Bayesian Hierarchical Spatial Model for Small Area Estimation with Non-ignorable Nonresponses and Its Applications to the NHANES Dental Caries Assessments.} Revision Invited to Annals of Applied Statistics. ArXiv:1810.05297.
 \item
   \emph{D. Ko}, M. Jeon, S. Lee, \textbf{Jin, I.H.}＊, and Park. H. (2021) Hidden Structure of How Children Think about Themselves Differs from What Parents Think about Their Children. Submitted to Plos One.
 \item
-  \emph{Jeon, Y.}, Chung, D., \emph{Park, J.}, and \textbf{Jin, I.H.}＊ (2021) Network-based Trajectory Topic Interaction Map for Text Mining of COVID-19 Biomedical Literature. Submitted to Annals of Applied Statistics.
+  \emph{Jeon, Y.}, Chung, D., \emph{Park, J.}, and \textbf{Jin, I.H.}＊ (2021) \href{https://arxiv.org/abs/2106.07374}{Network-based Trajectory Topic Interaction Map for Text Mining of COVID-19 Biomedical Literature}. Submitted to Annals of Applied Statistics.
 \item
   \emph{Kim, H.}, Jeon, Y.J., Kim, H.C., \textbf{Jin, I.H.}, and Jung, S.J. (2021) Application of latent space item response model to clustering stressful life events and Beck Depression Inventory-II: Results from Korean epidemiological survey data. Submitted to Psychological Medicine.
 \item
   Park, J. Kang, S. and \textbf{Jin, I.H.} (2021) Control of Frequentist Type I Error Rates in Hierarchical Linear Models for Multiregional Clinical Trials Using a Bayesian Approach. Submitted to Journal of Biopharmaceutical Statistics.
 \item
-  \textbf{Jin, I.H.}＊, \emph{Park, J.}, and Jeon, M. (2021) How social network influences human behavior: An integrated latent space approach. Submitted to Psychometrika.
+  \textbf{Jin, I.H.}＊, \emph{Park, J.}, and Jeon, M. (2021) \href{https://arxiv.org/abs/2109.05200}{How social network influences human behavior: An integrated latent space approach}. Submitted to Psychometrika.
 \end{enumerate}
 
 \hypertarget{refereed-conference-proceeding}{%
@@ -340,7 +336,7 @@ Students are italic. ＊ for as corresponding author.
 \def\labelenumi{\arabic{enumi}.}
 \tightlist
 \item
-  Liu, F., \emph{Eugenio, E.}, Jin, I.H, \emph{Bowen, C. M.} (2020) Differentially Private Generation of Social Networks via Exponential Random Graph Models, Proceedings of 2020 IEEE 44th Annual Computers, Software, and Applications Conference (COMPSAC). pp.~1695-1700.
+  Liu, F., \emph{Eugenio, E.}, Jin, I.H, \emph{Bowen, C. M.} (2020) \href{https://www.researchgate.net/publication/345376724_Differentially_Private_Generation_of_Social_Networks_via_Exponential_Random_Graph_Models}{Differentially Private Generation of Social Networks via Exponential Random Graph Models}, Proceedings of 2020 IEEE 44th Annual Computers, Software, and Applications Conference (COMPSAC). pp.~1695-1700.
 \end{enumerate}
 
 \hypertarget{ongoing-project}{%
@@ -642,20 +638,6 @@ Students are italic. ＊ for as corresponding author.
 
 성명
 
-전예슬
-
-이메일
-
-\href{mailto:jeons9677@gmail.com}{\nolinkurl{jeons9677@gmail.com}}
-
-통합과정 (2019-1)
-
-연구실
-
-대우관 614호
-
-성명
-
 강나윤
 
 이메일
@@ -667,6 +649,34 @@ Students are italic. ＊ for as corresponding author.
 연구실
 
 대우관 428호
+
+성명
+
+박진아
+
+이메일
+
+\href{mailto:pja0707@yonsei.ac.kr}{\nolinkurl{pja0707@yonsei.ac.kr}}
+
+통합과정 (2019-1)
+
+연구실
+
+대우관 614호
+
+성명
+
+전예슬
+
+이메일
+
+\href{mailto:jeons9677@gmail.com}{\nolinkurl{jeons9677@gmail.com}}
+
+통합과정 (2019-1)
+
+연구실
+
+대우관 614호
 
 성명
 
@@ -696,20 +706,6 @@ Students are italic. ＊ for as corresponding author.
 
 대우관 322호
 
-성명
-
-박진아
-
-이메일
-
-\href{mailto:pja0707@yonsei.ac.kr}{\nolinkurl{pja0707@yonsei.ac.kr}}
-
-통합과정 (2019-1)
-
-연구실
-
-대우관 401호
-
 \hypertarget{uxc11duxc0acuxacfcuxc815}{%
 \subsection*{석사과정}\label{uxc11duxc0acuxacfcuxc815}}
 \addcontentsline{toc}{subsection}{석사과정}
@@ -722,7 +718,7 @@ Students are italic. ＊ for as corresponding author.
 
 \href{mailto:hyunjookim11@naver.com}{\nolinkurl{hyunjookim11@naver.com}}
 
-통합과정 (2020-1)
+석사과정 (2020-1)
 
 연구실
 
@@ -843,6 +839,10 @@ b
 석사과정 (2021-2)
 
 연구실
+
+\hypertarget{alumni}{%
+\subsection*{Alumni}\label{alumni}}
+\addcontentsline{toc}{subsection}{Alumni}
 
 성명
 
