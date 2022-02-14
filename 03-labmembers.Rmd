@@ -75,7 +75,7 @@
   </tr>
   <tr>
     <td>이메일</td>
-	<td>jeons9677@gmail.com</td>
+	<td>jeon9677@yonsei.ac.kr</td>
   </tr>
   <tr>
     <td></td>
@@ -450,8 +450,8 @@
 	<td>jh.song@yonsei.ac.kr</td>
   </tr>
   <tr>
-    <td>연구분야</td>
-	<td>b</td>
+    <td>연구실</td>
+	<td>대우관 321호</td>
   </tr>
 </table><br>
 
@@ -531,13 +531,13 @@
   </colgroup>
 
   <tr>
-    <td rowspan="4" align="center" valign="middle"><img src="" height = 150></td>
+    <td rowspan="4" align="center" valign="middle"><img src="./pics/master/M_LJW.jpg" height = 150></td>
     <td>성명</td>
-	<td>지원</td>
+	<td>임지원</td>
   </tr>
   <tr>
     <td>이메일</td>
-	<td></td>
+	<td>sophi1127@yonsei.ac.kr</td>
   </tr>
     <tr>
     <td></td>
