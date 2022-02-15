@@ -146,7 +146,32 @@
 </table><br>
 
 
+<table>
 
+  <colgroup>
+  <col style="width:20%">
+  <col style="width:15%">
+  <col style="width:60%">
+  </colgroup>
+
+  <tr>
+    <td rowspan="4" align="center" valign="middle"><img src="" height = 150></td>
+    <td>성명</td>
+	  <td>이승원</td>
+  </tr>
+  <tr>
+    <td>이메일</td>
+	  <td></td>
+  </tr>
+  <tr>
+    <td></td>
+	  <td>통합과정 (2022-1)</td>
+  </tr>
+  <tr>
+    <td>연구실</td>
+	  <td></td>
+  </tr>
+</table><br>
 
 </br>
 </br>
@@ -161,14 +186,60 @@
 <hr style="border:2px solid gray"> </hr>
 
 
+<table>
+
+  <colgroup>
+  <col style="width:20%">
+  <col style="width:15%">
+  <col style="width:60%">
+  </colgroup>
+
+  <tr>
+    <td rowspan="4" align="center" valign="middle"><img src="./pics/master/M_OSY.png" height = 150></td>
+    <td>성명</td>
+	  <td>옥서연</td>
+  </tr>
+  <tr>
+    <td>이메일</td>
+	  <td>syook@yonsei.ac.kr</td>
+  </tr>
+  <tr>
+    <td></td>
+	  <td>석사과정 (2020-1)</td>
+  </tr>
+  <tr>
+    <td>연구실</td>
+	  <td>대우관 429호</td>
+  </tr>
+</table><br>
 
 
+<table>
 
+  <colgroup>
+  <col style="width:20%">
+  <col style="width:15%">
+  <col style="width:60%">
+  </colgroup>
 
-
-
-
-
+  <tr>
+    <td rowspan="4" align="center" valign="middle"><img src="./pics/master/202SJH.png" height = 150></td>
+    <td>성명</td>
+	  <td>송종호</td>
+  </tr>
+  <tr>
+    <td>이메일</td>
+	  <td>jh.song@yonsei.ac.kr</td>
+  </tr>
+  <tr>
+    <td></td>
+	  <td>석사과정 (2020-2)</td>
+  </tr>
+  <tr>
+    <td>연구실</td>
+	  <td>대우관 321호</td>
+  </tr>
+</table><br>
 
 
 
@@ -183,136 +254,21 @@
   <tr>
     <td rowspan="4" align="center" valign="middle"><img src="./pics/master/M_USJ.png" height = 150></td>
     <td>성명</td>
-	<td>엄상준</td>
+	  <td>엄상준</td>
   </tr>
   <tr>
     <td>이메일</td>
-	<td>esj205@naver.com</td>
+	  <td>esj205@naver.com</td>
   </tr>
     <tr>
     <td></td>
-	<td>석사과정 (2020-2)</td>
+	  <td>석사과정 (2020-2)</td>
   </tr>
   <tr>
     <td>연구실</td>
-	<td>대우관 410호</td>
+	  <td>대우관 410호</td>
   </tr>
 </table><br>
-
-
-
-
-
-
-
-
-
-<table>
-
-  <colgroup>
-  <col style="width:20%">
-  <col style="width:15%">
-  <col style="width:60%">
-  </colgroup>
-
-  <tr>
-    <td rowspan="4" align="center" valign="middle"><img src="./pics/master/M_OSY.png" height = 150></td>
-    <td>성명</td>
-	<td>옥서연</td>
-  </tr>
-  <tr>
-    <td>이메일</td>
-	<td>syook@yonsei.ac.kr</td>
-  </tr>
-    <tr>
-    <td></td>
-	<td>석사과정 (2020-1)</td>
-  </tr>
-  <tr>
-    <td>연구실</td>
-	<td>대우관 429호</td>
-  </tr>
-</table><br>
-
-
-
-
-
-
-
-
-
-
-
-<table>
-
-  <colgroup>
-  <col style="width:20%">
-  <col style="width:15%">
-  <col style="width:60%">
-  </colgroup>
-
-  <tr>
-    <td rowspan="4" align="center" valign="middle"><img src="./pics/master/M_YUY.png" height = 150></td>
-    <td>성명</td>
-	<td>유은영</td>
-  </tr>
-  <tr>
-    <td>이메일</td>
-	<td>uare0@yonsei.ac.kr</td>
-  </tr>
-    <tr>
-    <td></td>
-	<td>석사과정 (2021-1)</td>
-  </tr>
-  <tr>
-    <td>연구실</td>
-	<td>대우관 422호</td>
-  </tr>
-</table><br>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<table>
-
-  <colgroup>
-  <col style="width:20%">
-  <col style="width:15%">
-  <col style="width:60%">
-  </colgroup>
-
-  <tr>
-    <td rowspan="4" align="center" valign="middle"><img src="" height = 150></td>
-    <td>성명</td>
-	<td>이승원</td>
-  </tr>
-  <tr>
-    <td>이메일</td>
-	<td></td>
-  </tr>
-    <tr>
-    <td></td>
-	<td></td>
-  </tr>
-  <tr>
-    <td>연구실</td>
-	<td></td>
-  </tr>
-</table><br>
-
-
 
 
 <table>
@@ -343,15 +299,6 @@
 </table><br>
 
 
-
-
-
-
-
-
-
-
-
 <table>
 
   <colgroup>
@@ -361,27 +308,23 @@
   </colgroup>
 
   <tr>
-    <td rowspan="4" align="center" valign="middle"><img src="./pics/master/202SJH.png" height = 150></td>
+    <td rowspan="4" align="center" valign="middle"><img src="./pics/master/M_YUY.png" height = 150></td>
     <td>성명</td>
-	<td>송종호</td>
+	<td>유은영</td>
   </tr>
   <tr>
     <td>이메일</td>
-	<td>jh.song@yonsei.ac.kr</td>
+	<td>uare0@yonsei.ac.kr</td>
+  </tr>
+    <tr>
+    <td></td>
+	<td>석사과정 (2021-1)</td>
   </tr>
   <tr>
     <td>연구실</td>
-	<td>대우관 321호</td>
+	<td>대우관 422호</td>
   </tr>
 </table><br>
-
-
-
-
-
-
-
-
 
 
 <table>
@@ -395,29 +338,21 @@
   <tr>
     <td rowspan="4" align="center" valign="middle"><img src="./pics/master/M_CSY.png" height = 150></td>
     <td>성명</td>
-	<td>조수연</td>
+	  <td>조수연</td>
   </tr>
   <tr>
     <td>이메일</td>
-	<td>tnduss521@naver.com</td>
+	  <td>tnduss521@naver.com</td>
   </tr>
-    <tr>
+  <tr>
     <td></td>
-	<td>석사과정 (2021-2)</td>
+	  <td>석사과정 (2021-2)</td>
   </tr>
   <tr>
     <td>연구실</td>
-	<td></td>
+	  <td>대우관 321호</td>
   </tr>
 </table><br>
-
-
-
-
-
-
-
-
 
 
 
@@ -548,10 +483,6 @@
     <td>이메일</td>
 	  <td>abc</td>
   </tr>
-  <tr>
-    <td></td>
-	  <td></td>
-  </tr>
 </table><br>
 
 <table>
@@ -570,10 +501,6 @@
   <tr>
     <td>이메일</td>
 	  <td>hyunjookim11@naver.com</td>
-  </tr>
-  <tr>
-    <td>  </td>
-	  <td>  </td>
   </tr>
 </table><br>
 
@@ -595,10 +522,6 @@
     <td>이메일</td>
 	  <td>junghwn1107@naver.com</td>
   </tr>
-  <tr>
-    <td></td>
-	  <td></td>
-  </tr>
 </table><br>
 
 
@@ -619,10 +542,6 @@
     <td>이메일</td>
 	  <td>srlim@yonsei.ac.kr</td>
   </tr>
-  <tr>
-    <td></td>
-	  <td></td>
-  </tr>
 </table><br>
 
 
@@ -642,10 +561,6 @@
   <tr>
     <td>이메일</td>
 	  <td>sophi1127@yonsei.ac.kr</td>
-  </tr>
-  <tr>
-    <td></td>
-	  <td></td>
   </tr>
   
 </table><br>
