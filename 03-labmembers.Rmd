@@ -414,18 +414,11 @@
     <td>이메일</td>
 	  <td>shewco3@gmail.com</td>
   </tr>
-    <tr>
-    <td></td>
-<<<<<<< Updated upstream
-	  <td>삼성전자, 소프트웨어연구소</td>
-=======
-	<td>석사과정 (2021-1)</td>
-  </tr>
   <tr>
-    <td>연구실</td>
-	<td>대우관 321호</td>
->>>>>>> Stashed changes
+    <td></td>
+	  <td>삼성전자, 소프트웨어연구소</td>
   </tr>
+  
 </table><br>
 
 <table>
