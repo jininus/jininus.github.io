@@ -1,24 +1,16 @@
 --- 
-#title: "for Network Analysis, Network Psychometric, Bayesian Clinical Trial"
-#author: "John Doe"
-#date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book
-bibliography: [book.bib, packages.bib]
-# url: your book url like https://bookdown.org/yihui/bookdown
-# cover-image: path to the social sharing image like images/cover.jpg
-#description: |
-#  This is a minimal example of using the bookdown package to write a book.
-#  The HTML output format for this example is bookdown::gitbook,
-#  set in the _output.yml file.
-#link-citations: yes
-#github-repo: networkLabhp/networkLabhp.github.io
+bibliography:
+- book.bib
+- packages.bib
 ---
 
 # About us {-}
 
 <hr style="border:2px solid gray"> </hr>
 
+연세대학교 통계데이터사이언스학과 진익훈 교수님 연구실 Jinius Lab입니다.
 
 <!-- ```{r, eval=FALSE} -->
 <!-- bookdown::render_book() -->
