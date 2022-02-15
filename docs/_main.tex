@@ -1,53 +1,40 @@
-% Options for packages loaded elsewhere
-\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{unicode=true}{hyperref} % options for packages loaded elsewhere
 \PassOptionsToPackage{hyphens}{url}
 %
-\documentclass[
-]{book}
+\documentclass[]{book}
 \usepackage{lmodern}
 \usepackage{amssymb,amsmath}
 \usepackage{ifxetex,ifluatex}
+\usepackage{fixltx2e} % provides \textsubscript
 \ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
   \usepackage[T1]{fontenc}
   \usepackage[utf8]{inputenc}
-  \usepackage{textcomp} % provide euro and other symbols
-\else % if luatex or xetex
+  \usepackage{textcomp} % provides euro and other symbols
+\else % if luatex or xelatex
   \usepackage{unicode-math}
-  \defaultfontfeatures{Scale=MatchLowercase}
-  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+  \defaultfontfeatures{Ligatures=TeX,Scale=MatchLowercase}
 \fi
-% Use upquote if available, for straight quotes in verbatim environments
+% use upquote if available, for straight quotes in verbatim environments
 \IfFileExists{upquote.sty}{\usepackage{upquote}}{}
-\IfFileExists{microtype.sty}{% use microtype if available
-  \usepackage[]{microtype}
-  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+% use microtype if available
+\IfFileExists{microtype.sty}{%
+\usepackage[]{microtype}
+\UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
 }{}
-\makeatletter
-\@ifundefined{KOMAClassName}{% if non-KOMA class
-  \IfFileExists{parskip.sty}{%
-    \usepackage{parskip}
-  }{% else
-    \setlength{\parindent}{0pt}
-    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
-}{% if KOMA class
-  \KOMAoptions{parskip=half}}
-\makeatother
-\usepackage{xcolor}
-\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
-\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\IfFileExists{parskip.sty}{%
+\usepackage{parskip}
+}{% else
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{6pt plus 2pt minus 1pt}
+}
+\usepackage{hyperref}
 \hypersetup{
-  hidelinks,
-  pdfcreator={LaTeX via pandoc}}
-\urlstyle{same} % disable monospaced font for URLs
+            pdfborder={0 0 0},
+            breaklinks=true}
+\urlstyle{same}  % don't use monospace font for urls
 \usepackage{longtable,booktabs}
-% Correct order of tables after \paragraph or \subparagraph
-\usepackage{etoolbox}
-\makeatletter
-\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
-\makeatother
-% Allow footnotes in longtable head/foot
-\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
-\makesavenoteenv{longtable}
+% Fix footnotes in tables (requires footnote package)
+\IfFileExists{footnote.sty}{\usepackage{footnote}\makesavenoteenv{longtable}}{}
 \usepackage{graphicx,grffile}
 \makeatletter
 \def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
@@ -57,14 +44,25 @@
 % margins by default, and it is still possible to overwrite the defaults
 % using explicit options in \includegraphics[width, height, ...]{}
 \setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
-% Set default figure placement to htbp
-\makeatletter
-\def\fps@figure{htbp}
-\makeatother
-\setlength{\emergencystretch}{3em} % prevent overfull lines
+\setlength{\emergencystretch}{3em}  % prevent overfull lines
 \providecommand{\tightlist}{%
   \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
 \setcounter{secnumdepth}{5}
+% Redefines (sub)paragraphs to behave more like sections
+\ifx\paragraph\undefined\else
+\let\oldparagraph\paragraph
+\renewcommand{\paragraph}[1]{\oldparagraph{#1}\mbox{}}
+\fi
+\ifx\subparagraph\undefined\else
+\let\oldsubparagraph\subparagraph
+\renewcommand{\subparagraph}[1]{\oldsubparagraph{#1}\mbox{}}
+\fi
+
+% set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
 \usepackage{booktabs}
 \usepackage[]{natbib}
 \bibliographystyle{plainnat}
@@ -670,7 +668,7 @@ Students are italic. ＊ for as corresponding author.
 
 이메일
 
-\href{mailto:jeons9677@gmail.com}{\nolinkurl{jeons9677@gmail.com}}
+\href{mailto:jeon9677@yonsei.ac.kr}{\nolinkurl{jeon9677@yonsei.ac.kr}}
 
 통합과정 (2019-1)
 
@@ -709,20 +707,6 @@ Students are italic. ＊ for as corresponding author.
 \hypertarget{uxc11duxc0acuxacfcuxc815}{%
 \subsection*{석사과정}\label{uxc11duxc0acuxacfcuxc815}}
 \addcontentsline{toc}{subsection}{석사과정}
-
-성명
-
-김현주
-
-이메일
-
-\href{mailto:hyunjookim11@naver.com}{\nolinkurl{hyunjookim11@naver.com}}
-
-석사과정 (2020-1)
-
-연구실
-
-대우관 601호
 
 성명
 
@@ -790,43 +774,15 @@ Students are italic. ＊ for as corresponding author.
 
 성명
 
-이정환
-
-이메일
-
-\href{mailto:junghwn1107@naver.com}{\nolinkurl{junghwn1107@naver.com}}
-
-석사과정 (2020-1)
-
-연구실
-
-대우관 601호
-
-성명
-
-임수린
-
-이메일
-
-\href{mailto:srlim@yonsei.ac.kr}{\nolinkurl{srlim@yonsei.ac.kr}}
-
-석사과정 (2019-1)
-
-연구실
-
-대우관 422호
-
-성명
-
 송종호
 
 이메일
 
 \href{mailto:jh.song@yonsei.ac.kr}{\nolinkurl{jh.song@yonsei.ac.kr}}
 
-연구분야
+연구실
 
-b
+대우관 321호
 
 성명
 
@@ -846,11 +802,43 @@ b
 
 성명
 
-지원
+박선희
 
 이메일
 
-연구실
+\href{mailto:sun488396@gmail.com}{\nolinkurl{sun488396@gmail.com}}
+
+삼성화재, Data Analytics 파트
+
+성명
+
+박준용
+
+이메일
+
+\href{mailto:shewco3@gmail.com}{\nolinkurl{shewco3@gmail.com}}
+
+삼성전자, 소프트웨어연구소
+
+성명
+
+최수영
+
+이메일
+
+\href{mailto:csy0922@yonsei.ac.kr}{\nolinkurl{csy0922@yonsei.ac.kr}}
+
+동우화인켐, 분석기술팀
+
+성명
+
+송도영
+
+이메일
+
+\href{mailto:do2872@naver.com}{\nolinkurl{do2872@naver.com}}
+
+삼성전자, 메모리사업부
 
 성명
 
@@ -858,8 +846,40 @@ b
 
 이메일
 
-연구실
+abc
 
-  \bibliography{book.bib,packages.bib}
+성명
+
+김현주
+
+이메일
+
+\href{mailto:hyunjookim11@naver.com}{\nolinkurl{hyunjookim11@naver.com}}
+
+성명
+
+이정환
+
+이메일
+
+\href{mailto:junghwn1107@naver.com}{\nolinkurl{junghwn1107@naver.com}}
+
+성명
+
+임수린
+
+이메일
+
+\href{mailto:srlim@yonsei.ac.kr}{\nolinkurl{srlim@yonsei.ac.kr}}
+
+성명
+
+임지원
+
+이메일
+
+\href{mailto:sophi1127@yonsei.ac.kr}{\nolinkurl{sophi1127@yonsei.ac.kr}}
+
+\bibliography{book.bib,packages.bib}
 
 \end{document}

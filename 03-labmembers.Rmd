@@ -167,32 +167,7 @@
 
 
 
-<table>
 
-  <colgroup>
-  <col style="width:20%">
-  <col style="width:15%">
-  <col style="width:60%">
-  </colgroup>
-
-  <tr>
-    <td rowspan="4" align="center" valign="middle"><img src="./pics/master/M_KYJ.png" height = 150></td>
-    <td>성명</td>
-	<td>김현주</td>
-  </tr>
-  <tr>
-    <td>이메일</td>
-	<td>hyunjookim11@naver.com</td>
-  </tr>
-    <tr>
-    <td></td>
-	<td>석사과정 (2020-1)</td>
-  </tr>
-  <tr>
-    <td>연구실</td>
-	<td>대우관 601호</td>
-  </tr>
-</table><br>
 
 
 
@@ -371,61 +346,6 @@
 
 
 
-<table>
-
-  <colgroup>
-  <col style="width:20%">
-  <col style="width:15%">
-  <col style="width:60%">
-  </colgroup>
-
-  <tr>
-    <td rowspan="4" align="center" valign="middle"><img src="./pics/master/M_LJH.png" height = 150></td>
-    <td>성명</td>
-	<td>이정환</td>
-  </tr>
-  <tr>
-    <td>이메일</td>
-	<td>junghwn1107@naver.com</td>
-  </tr>
-    <tr>
-    <td></td>
-	<td>석사과정 (2020-1)</td>
-  </tr>
-  <tr>
-    <td>연구실</td>
-	<td>대우관 601호</td>
-  </tr>
-</table><br>
-
-
-
-<table>
-
-  <colgroup>
-  <col style="width:20%">
-  <col style="width:15%">
-  <col style="width:60%">
-  </colgroup>
-
-  <tr>
-    <td rowspan="4" align="center" valign="middle"><img src="./pics/master/M_LSL.png" height = 150></td>
-    <td>성명</td>
-	<td>임수린</td>
-  </tr>
-  <tr>
-    <td>이메일</td>
-	<td>srlim@yonsei.ac.kr</td>
-  </tr>
-    <tr>
-    <td></td>
-	<td>석사과정 (2019-1)</td>
-  </tr>
-  <tr>
-    <td>연구실</td>
-	<td>대우관 422호</td>
-  </tr>
-</table><br>
 
 
 
@@ -519,7 +439,191 @@
 <hr style="border:2px solid gray"> </hr>
 
 
+<table>
 
+  <colgroup>
+  <col style="width:20%">
+  <col style="width:15%">
+  <col style="width:60%">
+  </colgroup>
+
+  <tr>
+    <td rowspan="4" align="center" valign="middle"><img src="" height = 150></td>
+    <td>성명</td>
+	  <td>박선희</td>
+  </tr>
+  <tr>
+    <td>이메일</td>
+	  <td>sun488396@gmail.com</td>
+  </tr>
+    <tr>
+    <td></td>
+	  <td>삼성화재, Data Analytics 파트</td>
+  </tr>
+</table><br>
+
+<table>
+
+  <colgroup>
+  <col style="width:20%">
+  <col style="width:15%">
+  <col style="width:60%">
+  </colgroup>
+
+  <tr>
+    <td rowspan="4" align="center" valign="middle"><img src="" height = 150></td>
+    <td>성명</td>
+	  <td>박준용</td>
+  </tr>
+  <tr>
+    <td>이메일</td>
+	  <td>shewco3@gmail.com</td>
+  </tr>
+    <tr>
+    <td></td>
+	  <td>삼성전자, 소프트웨어연구소</td>
+  </tr>
+</table><br>
+
+<table>
+
+  <colgroup>
+  <col style="width:20%">
+  <col style="width:15%">
+  <col style="width:60%">
+  </colgroup>
+
+  <tr>
+    <td rowspan="4" align="center" valign="middle"><img src="" height = 150></td>
+    <td>성명</td>
+	  <td>최수영</td>
+  </tr>
+  <tr>
+    <td>이메일</td>
+	  <td>csy0922@yonsei.ac.kr</td>
+  </tr>
+    <tr>
+    <td></td>
+	  <td>동우화인켐, 분석기술팀</td>
+  </tr>
+</table><br>
+
+<table>
+
+  <colgroup>
+  <col style="width:20%">
+  <col style="width:15%">
+  <col style="width:60%">
+  </colgroup>
+
+  <tr>
+    <td rowspan="4" align="center" valign="middle"><img src="" height = 150></td>
+    <td>성명</td>
+	  <td>송도영</td>
+  </tr>
+  <tr>
+    <td>이메일</td>
+	  <td>do2872@naver.com</td>
+  </tr>
+    <tr>
+    <td></td>
+	  <td>삼성전자, 메모리사업부</td>
+  </tr>
+</table><br>
+
+<table>
+
+  <colgroup>
+  <col style="width:20%">
+  <col style="width:15%">
+  <col style="width:60%">
+  </colgroup>
+
+  <tr>
+    <td rowspan="4" align="center" valign="middle"><img src="" height = 150></td>
+    <td>성명</td>
+	  <td>최석준</td>
+  </tr>
+  <tr>
+    <td>이메일</td>
+	  <td>abc</td>
+  </tr>
+  <tr>
+    <td></td>
+	  <td></td>
+  </tr>
+</table><br>
+
+<table>
+
+  <colgroup>
+  <col style="width:20%">
+  <col style="width:15%">
+  <col style="width:60%">
+  </colgroup>
+
+  <tr>
+    <td rowspan="4" align="center" valign="middle"><img src="./pics/master/M_KYJ.png" height = 150></td>
+    <td>성명</td>
+	  <td>김현주</td>
+  </tr>
+  <tr>
+    <td>이메일</td>
+	  <td>hyunjookim11@naver.com</td>
+  </tr>
+  <tr>
+    <td>  </td>
+	  <td>  </td>
+  </tr>
+</table><br>
+
+
+<table>
+
+  <colgroup>
+  <col style="width:20%">
+  <col style="width:15%">
+  <col style="width:60%">
+  </colgroup>
+
+  <tr>
+    <td rowspan="4" align="center" valign="middle"><img src="./pics/master/M_LJH.png" height = 150></td>
+    <td>성명</td>
+	  <td>이정환</td>
+  </tr>
+  <tr>
+    <td>이메일</td>
+	  <td>junghwn1107@naver.com</td>
+  </tr>
+  <tr>
+    <td></td>
+	  <td></td>
+  </tr>
+</table><br>
+
+
+<table>
+
+  <colgroup>
+  <col style="width:20%">
+  <col style="width:15%">
+  <col style="width:60%">
+  </colgroup>
+
+  <tr>
+    <td rowspan="4" align="center" valign="middle"><img src="./pics/master/M_LSL.png" height = 150></td>
+    <td>성명</td>
+	<td>임수린</td>
+  </tr>
+  <tr>
+    <td>이메일</td>
+	  <td>srlim@yonsei.ac.kr</td>
+  </tr>
+  <tr>
+    <td></td>
+	  <td></td>
+  </tr>
+</table><br>
 
 
 <table>
@@ -533,56 +637,18 @@
   <tr>
     <td rowspan="4" align="center" valign="middle"><img src="./pics/master/M_LJW.jpg" height = 150></td>
     <td>성명</td>
-	<td>임지원</td>
+	  <td>임지원</td>
   </tr>
   <tr>
     <td>이메일</td>
-	<td>sophi1127@yonsei.ac.kr</td>
+	  <td>sophi1127@yonsei.ac.kr</td>
   </tr>
-    <tr>
+  <tr>
     <td></td>
-	<td></td>
+	  <td></td>
   </tr>
-  <tr>
-    <td>연구실</td>
-	<td></td>
-  </tr>
+  
 </table><br>
-
-
-
-
-<table>
-
-  <colgroup>
-  <col style="width:20%">
-  <col style="width:15%">
-  <col style="width:60%">
-  </colgroup>
-
-  <tr>
-    <td rowspan="4" align="center" valign="middle"><img src="" height = 150></td>
-    <td>성명</td>
-	<td>최석준</td>
-  </tr>
-  <tr>
-    <td>이메일</td>
-	<td></td>
-  </tr>
-    <tr>
-    <td></td>
-	<td></td>
-  </tr>
-  <tr>
-    <td>연구실</td>
-	<td></td>
-  </tr>
-</table><br>
-
-
-
-
-
 
 
 
