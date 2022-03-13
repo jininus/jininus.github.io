@@ -40,21 +40,6 @@ Seoul, Rep. of Korea, 03722 </td>
 <br>
 <br>
 
-#### Programming Languages {-}
-
-----
-
-C, R, Matlab, Julia, LaTeX.
-
-
-
-<br>
-<br>
-<br>
-<br>
-<br>
-
-
 ## Academic Appointment {-}
 
 ----
@@ -490,6 +475,19 @@ Students are italic. ＊ for as corresponding author.
 	- Yeseul Jeon (Current; Yonsei University)
 
 
+#### Programming Languages {-}
+
+----
+
+C, R, Matlab, Julia, LaTeX.
+
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
 
 
 
