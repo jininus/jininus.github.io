@@ -714,7 +714,7 @@ C, R, Matlab, Julia, LaTeX.
   </colgroup>
 
   <tr>
-    <td rowspan="4" align="center" valign="middle"><img src="./pics/master/M_GHK.png" height = 150></td>
+    <td rowspan="4" align="center" valign="middle"><img src="./pics/master/M_GHK.jpg" height = 150></td>
     <td>성명</td>
 	  <td>김광희</td>
   </tr>
