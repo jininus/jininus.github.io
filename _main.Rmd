@@ -231,6 +231,7 @@ Students are italic. ＊ for as corresponding author.
 		5. ACMS 30530: Introduction to Probability Fall 2017
 		6. ACMS 40878: Statistical Computing with R Fall 2017, 2018, Spring 2019
 
+
 <br>
 
 3. Yonsei University, Seoul, Republic of Korea 
@@ -704,6 +705,33 @@ C, R, Matlab, Julia, LaTeX.
   </tr>
 </table><br>
 
+<table>
+
+  <colgroup>
+  <col style="width:20%">
+  <col style="width:15%">
+  <col style="width:60%">
+  </colgroup>
+
+  <tr>
+    <td rowspan="4" align="center" valign="middle"><img src="./pics/master/M_GHK.png" height = 150></td>
+    <td>성명</td>
+	  <td>김광희</td>
+  </tr>
+  <tr>
+    <td>이메일</td>
+	  <td>musagh08@naver.com</td>
+  </tr>
+  <tr>
+    <td></td>
+	  <td>석사과정 (2022-2)</td>
+  </tr>
+  <tr>
+    <td>연구실</td>
+	  <td>대우관 401호</td>
+  </tr>
+</table><br>
+
 
 
 
@@ -811,7 +839,7 @@ C, R, Matlab, Julia, LaTeX.
     <td>이메일</td>
 	  <td>do2872@naver.com</td>
   </tr>
-    <tr>
+  <tr>
     <td></td>
 	  <td>삼성전자, 메모리사업부</td>
   </tr>
@@ -830,9 +858,13 @@ C, R, Matlab, Julia, LaTeX.
     <td>성명</td>
 	  <td>최석준</td>
   </tr>
-  <tr>
+  <!-- <tr>
     <td>이메일</td>
 	  <td>abc</td>
+  </tr> -->
+   <tr>
+    <td></td>
+	  <td>University of California, Santa Cruz, Ph.D. 과정</td>
   </tr>
 </table><br>
 
