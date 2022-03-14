@@ -724,7 +724,7 @@ C, R, Matlab, Julia, LaTeX.
   </tr>
   <tr>
     <td></td>
-	  <td>석사과정 (2022-2)</td>
+	  <td>석사과정 (2022-1)</td>
   </tr>
   <tr>
     <td>연구실</td>
