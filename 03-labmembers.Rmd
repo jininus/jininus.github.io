@@ -155,13 +155,13 @@
   </colgroup>
 
   <tr>
-    <td rowspan="4" align="center" valign="middle"><img src="" height = 150></td>
+    <td rowspan="4" align="center" valign="middle"><img src="./pics/doctor/T_LSY.png" height = 150></td>
     <td>성명</td>
 	  <td>이승원</td>
   </tr>
   <tr>
     <td>이메일</td>
-	  <td></td>
+	  <td>l2sw_@naver.com</td>
   </tr>
   <tr>
     <td></td>
@@ -169,7 +169,7 @@
   </tr>
   <tr>
     <td>연구실</td>
-	  <td></td>
+	  <td>대우관 321호</td>
   </tr>
 </table><br>
 
