@@ -784,7 +784,7 @@ C, R, Matlab, Julia, LaTeX.
   </colgroup>
 
   <tr>
-    <td rowspan="4" align="center" valign="middle"><img src="" height = 150></td>
+    <td rowspan="4" align="center" valign="middle"><img src="./pics/alumni/A_PJY.jpg" height = 150></td>
     <td>성명</td>
 	  <td>박준용</td>
   </tr>
@@ -877,7 +877,7 @@ C, R, Matlab, Julia, LaTeX.
   </colgroup>
 
   <tr>
-    <td rowspan="4" align="center" valign="middle"><img src="./pics/master/M_KYJ.png" height = 150></td>
+    <td rowspan="4" align="center" valign="middle"><img src="./pics/alumni/A_KYJ.png" height = 150></td>
     <td>성명</td>
 	  <td>김현주</td>
   </tr>
@@ -897,7 +897,7 @@ C, R, Matlab, Julia, LaTeX.
   </colgroup>
 
   <tr>
-    <td rowspan="4" align="center" valign="middle"><img src="./pics/master/M_LJH.png" height = 150></td>
+    <td rowspan="4" align="center" valign="middle"><img src="./pics/alumni/A_LJH.png" height = 150></td>
     <td>성명</td>
 	  <td>이정환</td>
   </tr>
@@ -917,7 +917,7 @@ C, R, Matlab, Julia, LaTeX.
   </colgroup>
 
   <tr>
-    <td rowspan="4" align="center" valign="middle"><img src="./pics/master/M_LSL.png" height = 150></td>
+    <td rowspan="4" align="center" valign="middle"><img src="./pics/alumni/A_LSL.png" height = 150></td>
     <td>성명</td>
 	<td>임수린</td>
   </tr>
@@ -937,7 +937,7 @@ C, R, Matlab, Julia, LaTeX.
   </colgroup>
 
   <tr>
-    <td rowspan="4" align="center" valign="middle"><img src="./pics/master/M_LJW.jpg" height = 150></td>
+    <td rowspan="4" align="center" valign="middle"><img src="./pics/alumni/A_LJW.jpg" height = 150></td>
     <td>성명</td>
 	  <td>임지원</td>
   </tr>
