@@ -831,7 +831,7 @@ C, R, Matlab, Julia, LaTeX.
   </colgroup>
 
   <tr>
-    <td rowspan="4" align="center" valign="middle"><img src="" height = 150></td>
+    <td rowspan="4" align="center" valign="middle"><img src="./pics/alumni/A_SDY.jpg" height = 150></td>
     <td>성명</td>
 	  <td>송도영</td>
   </tr>
