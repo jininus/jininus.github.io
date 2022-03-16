@@ -8,6 +8,9 @@ bibliography:
 
 # About us {-}
 
+
+연세대학교 통계데이터사이언스학과 진익훈 교수님 연구실 Jinius Lab입니다.
+
 <hr style="border:2px solid gray"> </hr>
 
 <div class="page-body">
@@ -15,6 +18,7 @@ bibliography:
     연구분야 및 구성원 소개
   </h1>
   <hr id="9585eb11-0382-4474-853e-be81f2e01658" />
+  
   <h2 id="521d286a-db79-4f91-82a4-0e3182280b64" class="">연구분야</h2>
   <ul id="cc74cfe7-2885-4518-b8a0-62fc17668238" class="bulleted-list">
     <li style="list-style-type: disc">Bayesian Computation</li>
