@@ -39,7 +39,12 @@ bibliography:
   </ul>
   <ul id="2286ee5f-9b0a-497b-92b5-50c0601c9941" class="bulleted-list">
     <li style="list-style-type: disc">
-      석사과정: 9명(석박통합과정 2명 포함)
+      석사과정: 9명 (석박통합과정 2명 포함)
+    </li>
+  </ul>
+  <ul id="2286ee5f-9b0a-497b-92b5-50c0601c9941" class="bulleted-list">
+    <li style="list-style-type: disc">
+      학부연구생: 2명
     </li>
   </ul>
   <ul id="a453a88e-35c7-4214-bc56-3a75f0f25203" class="bulleted-list">
