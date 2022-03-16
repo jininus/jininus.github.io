@@ -39,7 +39,7 @@ bibliography:
   </ul>
   <ul id="2286ee5f-9b0a-497b-92b5-50c0601c9941" class="bulleted-list">
     <li style="list-style-type: disc">
-      석사과정: 8명(석박통합과정 2명 포함)
+      석사과정: 9명(석박통합과정 2명 포함)
     </li>
   </ul>
   <ul id="a453a88e-35c7-4214-bc56-3a75f0f25203" class="bulleted-list">
@@ -964,6 +964,64 @@ C, R, Matlab, Julia, LaTeX.
 </br>
 </br>
 
+
+### 학부연구생 {-}
+
+<hr style="border:2px solid gray"> </hr>
+
+<table>
+
+  <colgroup>
+  <col style="width:20%">
+  <col style="width:15%">
+  <col style="width:60%">
+  </colgroup>
+
+  <tr>
+    <td rowspan="4" align="center" valign="middle"><img src="" height = 150></td>
+    <td>성명</td>
+	<td>김경한</td>
+  </tr>
+  <tr>
+    <td>이메일</td>
+	<td></td>
+  </tr>
+  <tr>
+    <td></td>
+	<td>학부연구생 (2022-1)</td>
+  </tr>
+</table><br>
+
+
+<table>
+
+  <colgroup>
+  <col style="width:20%">
+  <col style="width:15%">
+  <col style="width:60%">
+  </colgroup>
+
+  <tr>
+    <td rowspan="4" align="center" valign="middle"><img src="" height = 150></td>
+    <td>성명</td>
+	<td>이미르</td>
+  </tr>
+  <tr>
+    <td>이메일</td>
+	<td></td>
+  </tr>
+    <tr>
+    <td></td>
+	<td>학부연구생 (2022-1)</td>
+  </tr>
+</table><br>
+
+
+</br>
+</br>
+</br>
+</br>
+</br>
 
 
 ### Alumni {-}

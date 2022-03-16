@@ -395,6 +395,64 @@
 </br>
 
 
+### 학부연구생 {-}
+
+<hr style="border:2px solid gray"> </hr>
+
+<table>
+
+  <colgroup>
+  <col style="width:20%">
+  <col style="width:15%">
+  <col style="width:60%">
+  </colgroup>
+
+  <tr>
+    <td rowspan="4" align="center" valign="middle"><img src="" height = 150></td>
+    <td>성명</td>
+	<td>김경한</td>
+  </tr>
+  <tr>
+    <td>이메일</td>
+	<td></td>
+  </tr>
+  <tr>
+    <td></td>
+	<td>학부연구생 (2022-1)</td>
+  </tr>
+</table><br>
+
+
+<table>
+
+  <colgroup>
+  <col style="width:20%">
+  <col style="width:15%">
+  <col style="width:60%">
+  </colgroup>
+
+  <tr>
+    <td rowspan="4" align="center" valign="middle"><img src="" height = 150></td>
+    <td>성명</td>
+	<td>이미르</td>
+  </tr>
+  <tr>
+    <td>이메일</td>
+	<td></td>
+  </tr>
+    <tr>
+    <td></td>
+	<td>학부연구생 (2022-1)</td>
+  </tr>
+</table><br>
+
+
+</br>
+</br>
+</br>
+</br>
+</br>
+
 
 ### Alumni {-}
 
