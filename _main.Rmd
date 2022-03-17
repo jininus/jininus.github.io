@@ -987,13 +987,13 @@ C, R, Matlab, Julia, LaTeX.
   </colgroup>
 
   <tr>
-    <td rowspan="4" align="center" valign="middle"><img src="" height = 150></td>
+    <td rowspan="4" align="center" valign="middle"><img src="./pics/student/S_KKH.jpeg" height = 150></td>
     <td>성명</td>
 	<td>김경한</td>
   </tr>
   <tr>
     <td>이메일</td>
-	<td></td>
+	<td>kyunghan@yonsei.ac.kr</td>
   </tr>
   <tr>
     <td></td>
