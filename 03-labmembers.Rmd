@@ -515,7 +515,7 @@
   </colgroup>
 
   <tr>
-    <td rowspan="4" align="center" valign="middle"><img src="" height = 150></td>
+    <td rowspan="4" align="center" valign="middle"><img src="./pics/alumni/A_CSY.jpg" height = 150></td>
     <td>성명</td>
 	  <td>최수영</td>
   </tr>
