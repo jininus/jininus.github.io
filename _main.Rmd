@@ -363,7 +363,7 @@ Students are underline. ＊ for as corresponding author.
 
 17. Park, J., **Jin, I.H.**＊, and Schweinberger, M. (2022) [Bayesian Model Selection for High-Dimensional Ising Models, with Applications to Educational Data](https://arxiv.org/abs/1911.07142). Computational Statistics and Data Analysis. Vol. 125: Article 107325.
 
-18. Park, J., <u>Jeon, Y.</u>, Shin, M., Jeon, M., and **Jin, I.H.**＊ (2021) [Bayesian Shrinkage for Functional Network Models, with Applications to Longitudinal Item Response Data. Revision Journal of Computational and Graphical Statistics.](https://arxiv.org/abs/2006.13698) In Press. ArXiv:2006.13698.
+18. Park, J., <u>Jeon, Y.</u>, Shin, M., Jeon, M., and **Jin, I.H.**＊ (2021) [Bayesian Shrinkage for Functional Network Models, with Applications to Longitudinal Item Response Data](https://arxiv.org/abs/2006.13698) Journal of Computational and Graphical Statistics. In Press. ArXiv:2006.13698.
 
 19. Liu, F., <u>Eugenio, E.</u>, **Jin, I.H.**, and <u>Bowen, C. M.</u> (2021) [Differentially Private Synthesis of Social Network Structure via Exponential Random Graph Model](https://www.osti.gov/biblio/1668697). Journal of Survey Statistics and Methodology. Accepted
 
