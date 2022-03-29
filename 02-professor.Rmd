@@ -132,14 +132,14 @@ Students are underline. ＊ for as corresponding author.
 
 7. <u>Park, J.</u>, <u>Hu, W.</u>, **Jin, I.H.**, Liu. H., and Zhang, Y. (2022) [Bayesian adaptive phase I/II clinical trial design with competing risk model in personalized medicine. Submitted to Biostatistics](https://arxiv.org/abs/2203.06830). ArXiv:2203.06830
 
-8. <u>You, K.</u>, Kim, I., Jeon, M., and **Jin, I.H.**＊(2022) Multiple Latent Spaces Com- parisons Using the Topological Analysis. Submitted to Journal of the Amer- ican Statistical Association.
+8. <u>You, K.</u>, Kim, I., Jeon, M., and **Jin, I.H.**＊(2022) Multiple Latent Spaces Comparisons Using the Topological Analysis. Submitted to Journal of the American Statistical Association.
 
 9. Yun, J., <u>Kim, H.</u>, Jeon, M., **Jin, I.H.**＊ (2022) [Analysis of Connection Times in Bipartite Network Data: Development of the Latent Space Accumulator Model with Applications to Assessment Data. Submitted to Journal of the American Statistical Association](https://arxiv.org/abs/2203.14306). ArXiv:2203.14306
 
 
 10. <u>Kim, H.</u>, Jeon, Y.J., Kim, H.C., **Jin, I.H.**, and Jung, S.J. (2022) Application of latent space item response model to clustering stressful life events and Beck Depression Inventory-II: Results from Korean epidemiological survey data. Submitted to Psychological Medicine.
 
-11. **Jin, I.H.**, Liu, F., <u>Eugenio, E.</u>, Kim, J., and Liu, S. (2018) [Bayesian Hierarchical Spatial Model for Small Area Estimation with Non-ignorable Non- responses and Its Applications to the NHANES Dental Caries Assessments](https://arxiv.org/abs/1810.05297). ArXiv:1810.05297.
+11. **Jin, I.H.**, Liu, F., <u>Eugenio, E.</u>, Kim, J., and Liu, S. (2018) [Bayesian Hierarchical Spatial Model for Small Area Estimation with Non-ignorable Nonresponses and Its Applications to the NHANES Dental Caries Assessments](https://arxiv.org/abs/1810.05297). ArXiv:1810.05297.
 
 <br>
 <br>
