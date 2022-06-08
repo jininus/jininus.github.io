@@ -71,7 +71,7 @@ B.A., Applied Statistics, Business Administration, February 2004.
 
 ----
 
-Students are underline. ＊ for as corresponding author.
+Students are underlined. ＊ is the article what I am an corresponding author.
 	
 1. **Jin, I.H.** and Liang, F. (2013) [Fitting social network models using varying truncation stochastic approximation MCMC algorithms.](https://www.researchgate.net/publication/241724330_Fitting_Social_Network_Models_Using_Varying_Truncation_Stochastic_Approximation_MCMC_Algorithm) Journal of Computational and Graphical Statistics. Vol. 22. No. 4: pp. 927-952. <br>**Selected as JCGS highlights at the Interface 2012: Future of Statistical Computing**
 
@@ -89,7 +89,7 @@ Students are underline. ＊ for as corresponding author.
 
 8. **Jin, I.H.**, Yuan, Y., and Bandyopadhyay, D. (2016) [A Bayesian hierarchical spatial model for dental caries assessments using non-gaussian Markov random fields](https://www.researchgate.net/publication/305627921_A_Bayesian_hierarchical_spatial_model_for_dental_caries_assessment_using_non-Gaussian_Markov_random_fields). The Annals of Applied Statistics. Vol. 10. No. 2: pp. 884-905.
 
-9. <u>Liu, H.</u>, **Jin, I.H.** and, Zhang, Z. (2018) [Structural Equation Modeling of Social Networks: Specification, Estimation, and Application](https://www.researchgate.net/publication/329215082_Structural_Equation_Modeling_of_Social_Networks_Specification_Estimation_and_Application). Multivariate Behavioral Research, Vol. 53. No. 5: pp.714-730. <br>**Awarded Tanaka Award: Most Outstanding Article in Multivariate Behavioral Research Volume 53.**
+9. [Liu, H.]{.underline}, **Jin, I.H.** and, Zhang, Z. (2018) [Structural Equation Modeling of Social Networks: Specification, Estimation, and Application](https://www.researchgate.net/publication/329215082_Structural_Equation_Modeling_of_Social_Networks_Specification_Estimation_and_Application). Multivariate Behavioral Research, Vol. 53. No. 5: pp.714-730. <br>**Awarded Tanaka Award: Most Outstanding Article in Multivariate Behavioral Research Volume 53.**
 
 10. **Jin, I.H.**＊ and Jeon, M. (2019) [A Doubly Latent Space Joint Model for Local Item and Person Dependence in the Analysis of Item Response Data](https://www.researchgate.net/publication/326276196_A_Doubly_Latent_Space_Joint_Model_for_Local_Item_and_Person_Dependence_in_the_Analysis_of_Item_Response_Data). Psychometrika, Vol. 84. No. 1: pp. 236-260.
 
@@ -97,19 +97,23 @@ Students are underline. ＊ for as corresponding author.
 
 12. Yun, J., Shin, M., **Jin, I.H.**＊, and Liang, F. (2020) [Stochastic approximation Hamiltonian Monte Carlo](https://arxiv.org/abs/1810.04811). Journal of Statistical Computation and Simulation. Vol. 90. No. 17: pp. 3135-3156.
 
-13. <u>Che, C.</u>, **Jin, I.H.**, and Zhang, Z. (2021) [Network Mediation Analysis Using Model-based Eigenvalue Decompositiong](https://www.researchgate.net/publication/339371541_Network_Mediation_Analysis_Using_Model-Based_Eigenvalue_Decomposition). Structural Equation Modelin. Vol. 28. No. 1: pp. 148-161.
+13. [Che, C.]{.underline}, **Jin, I.H.**, and Zhang, Z. (2021) [Network Mediation Analysis Using Model-based Eigenvalue Decompositiong](https://www.researchgate.net/publication/339371541_Network_Mediation_Analysis_Using_Model-Based_Eigenvalue_Decomposition). Structural Equation Modelin. Vol. 28. No. 1: pp. 148-161.
 
-14. <u>Liu, H.</u>, **Jin, I.H.**, Zhang, Z, and Yuan, Y. (2021) [Social Network Mediation Analysis: Latent Space Approach](https://arxiv.org/abs/1810.03751). Psychometrika. Vol. 86. No. 1: pp. 272-298.
+14. [Liu, H.]{.underline}, **Jin, I.H.**, Zhang, Z, and Yuan, Y. (2021) [Social Network Mediation Analysis: Latent Space Approach](https://arxiv.org/abs/1810.03751). Psychometrika. Vol. 86. No. 1: pp. 272-298.
 
 15. Jeon, M., **Jin, I.H.**, Schweinberger, M., and Baugh, S. (2021) [Mapping unobserved item-respondent interactions: A latent space item response model with interaction map](https://arxiv.org/abs/2007.08719). Psychometrika. Vol. 86. No. 2: pp. 378-403.
 
-16. Y. Zhang, S. Cao, C. Zhang, **Jin, I.H.**, and Zang, Y. (2021) [A Bayesian Adaptive Phase I/II Clinical Trial Design with Late-onset Competing Risk Outcomes.](https://doi.org/10.1111/biom.13347) Biometrics. Vol. 77. Issue. 3: pp. 796-808. 
+16. Y. Zhang, S. Cao, C. Zhang, **Jin, I.H.**, and Zang, Y. (2021) [A Bayesian Adaptive Phase I/II Clinical Trial Design with Late-onset Competing Risk Outcomes.](https://doi.org/10.1111/biom.13347) Biometrics. In Press. 
 
 17. Park, J., **Jin, I.H.**＊, and Schweinberger, M. (2022) [Bayesian Model Selection for High-Dimensional Ising Models, with Applications to Educational Data](https://arxiv.org/abs/1911.07142). Computational Statistics and Data Analysis. Vol. 125: Article 107325.
 
-18. Park, J., <u>Jeon, Y.</u>, Shin, M., Jeon, M., and **Jin, I.H.**＊ (2022) [Bayesian Shrinkage for Functional Network Models, with Applications to Longitudinal Item Response Data](https://arxiv.org/abs/2006.13698) Journal of Computational and Graphical Statistics. In Press. ArXiv:2006.13698.
+18. Park, J., [Jeon, Y.]{.underline}, Shin, M., Jeon, M., and **Jin, I.H.**＊ (2022) [Bayesian Shrinkage for Functional Network Models, with Applications to Longitudinal Item Response Data.](https://arxiv.org/abs/2006.13698) Journal of Computational and Graphical Statistics. Vol. 31. No. 2: pp 360-377.
 
-19. Liu, F., <u>Eugenio, E.</u>, **Jin, I.H.**, and <u>Bowen, C. M.</u> (2022) [Differentially Private Synthesis of Social Network Structure via Exponential Random Graph Model](https://www.osti.gov/biblio/1668697). Journal of Survey Statistics and Methodology. Accepted
+19. Liu, F., [Eugenio, E.]{.underline}, **Jin, I.H.**, and [Bowen, C. M.]{.underline} (2022) [Differentially Private Synthesis of Social Network Structure via Exponential Random Graph Model](https://www.osti.gov/biblio/1668697). Journal of Survey Statistics and Methodology. Accepted
+
+20.  **Jin, I.H.**, Jeon, M., Schweinberger, M, Lin, L., and J. Yun (2022) [Multilevel Network Item Response Modeling for Discovering Differences Between Innovation and Regular School Systems in Korea.](https://arxiv.org/abs/1810.07876) Journal of Royal Statistical Society, Series C. Accepted. ArXiv:1810.07876.
+
+21. [D. Ko]{.underline}, Jeon, S. Lee, **Jin, I.H.**＊, and Park. H＊. (2021) Hidden Structure of How Children Think about Themselves Differs from What Parents Think about Their Children. Plos One. Accepted.
 
 <br>
 <br>
@@ -118,28 +122,24 @@ Students are underline. ＊ for as corresponding author.
 
 ----
 
-1. **Jin, I.H.**, Jeon, M., Schweinberger, M, and Lin, L. (2021) [Hierarchical Network Item Response Modeling for Discovering Differences Between Innovation and Regular School Systems in Korea.](https://arxiv.org/abs/1810.07876) Revision Submitted to Journal of Royal Statistical Society, Series C. ArXiv:1810.07876.
+1. [Jeon, Y.]{.underline}, Chung, D., [Park, J.]{.underline}, and **Jin, I.H.**＊(2021) [Network-based Trajectory Topic Interaction Map for Text Mining of COVID-19 Biomedical Literature.](https://arxiv.org/abs/2106.07374) Revision Submitted to Annals of Applied Statistics. ArXiv:2106.07374.
 
-2. <u>D. Ko</u>, M. Jeon, S. Lee, **Jin, I.H.**＊, and Park. H. (2021) Hidden Structure of How Children Think about Themselves Differs from What Parents Think about Their Children. Revision Submitted to Plos One.
+2. Park, J. Kang, S. and **Jin, I.H**. (2021) Control of Frequentist Type I Error Rates in Hierarchical Linear Models for Multiregional Clinical Trials Using a Bayesian Approach. Revision Submitted to Journal of Biopharmaceutical Statistics.
 
-3. <u>Jeon, Y.</u>, Chung, D., <u>Park, J.</u>, and **Jin, I.H.**＊ (2021) [Network-based Trajectory Topic Interaction Map for Text Mining of COVID-19 Biomedical Literature](https://arxiv.org/abs/2106.07374). Revision Submitted to Annals of Applied Statistics. ArXiv:2106.07374.
+3. [Park, J.]{.underline}, **Jin, I.H.**＊, and Jeon, M. (2021) [How social network infuences human behavior: An integrated latent space approach.](https://arxiv.org/abs/2109.05200) Revision Invited to Psychometrika. ArXiv:2109.05200.
 
-4. Park, J. Kang, S. and **Jin, I.H.** (2021) Control of Frequentist Type I Error Rates in Hierarchical Linear Models for Multiregional Clinical Trials Using a Bayesian Approach. Revision Submitted to Journal of Biopharmaceutical Statistics.
+4. [D. Ko]{.underline}, Im, J., and **Jin, I.H.** (2021) [Bayesian nonparametric quantile regression with multiple proxy variables.](https://arxiv.org/abs/2112.12904) Submitted to Computational Statistics and Data Analysis. ArXiv:2112.12904
 
-5. **Jin, I.H.**＊, <u>Park, J.</u>, and Jeon, M. (2021) [How social network influences human behavior: An integrated latent space approach](https://arxiv.org/abs/2109.05200). Revision Invited to Psychometrika. ArXiv:2109.05200.
+5. [Park, J.]{.underline}, [Hu, W.]{.underline}, **Jin, I.H.**＊, and Zang, Y. (2022) [Bayesian adaptive phase I/II clinical trial design with competing risk model in personalized medicine.](https://arxiv.org/abs/2203.06830) Submitted to Bayesian Analysis. ArXiv:2203.06830
 
-6. <u>D. Ko</u>, **Jin, I.H.**, and Im, J. (2021) [Bayesian Nonparametric quantile regression with multiple proxy variables.](https://arxiv.org/abs/2112.12904). Submitted to Bayesian Analysis. ArXiv:2112.12904.
+6. Yun, J., [Kim, H.]{.underline}, Jeon, M., **Jin, I.H.**＊ (2022) [Analysis of Connection Times in Bipartite Network Data: Development of the Latent Space Accumulator Model with Applications to Assessment Data.](https://arxiv.org/abs/2203.14306) Submitted to Social Networks. ArXiv:2203.14306
 
-7. <u>Park, J.</u>, <u>Hu, W.</u>, **Jin, I.H.**, Liu. H., and Zhang, Y. (2022) [Bayesian adaptive phase I/II clinical trial design with competing risk model in personalized medicine.](https://arxiv.org/abs/2203.06830). Submitted to Biostatistics. ArXiv:2203.06830
+7. [Kim, H.]{.underline}, Jeon, Y.J., Kim, H.C., **Jin, I.H.**, and Jung, S.J. (2022) Application of latent space item response model to clustering stressful life events and Beck Depression Inventory-II: Results from Korean epidemiological survey data. Submitted to Psychological Science.
 
-8. <u>You, K.</u>, Kim, I., Jeon, M., and **Jin, I.H.**＊(2022) Multiple Latent Spaces Comparisons Using the Topological Analysis. Submitted to Journal of the American Statistical Association.
+8. [Ko, D.]{.underline}, [Park, J.]{.underline}, Jeon, M., and **Jin, I.H.**＊ (2022) LSIRM: An R Package for a Latent Space Item Response Model with an Interaction Map. Submitted to Journal of Statistical Software.
 
-9. Yun, J., <u>Kim, H.</u>, Jeon, M., **Jin, I.H.**＊ (2022) [Analysis of Connection Times in Bipartite Network Data: Development of the Latent Space Accumulator Model with Applications to Assessment Data.](https://arxiv.org/abs/2203.14306). Submitted to Journal of the American Statistical Association. ArXiv:2203.14306
+9. [You, K.]{.underline}, Kim, I., Jeon, M., and **Jin, I.H.**＊ (2022) Multiple Latent Spaces Comparisons Using the Topological Analysis.
 
-
-10. <u>Kim, H.</u>, Jeon, Y.J., Kim, H.C., **Jin, I.H.**, and Jung, S.J. (2022) Application of latent space item response model to clustering stressful life events and Beck Depression Inventory-II: Results from Korean epidemiological survey data. Submitted to Psychological Medicine.
-
-11. **Jin, I.H.**, Liu, F., <u>Eugenio, E.</u>, Kim, J., and Liu, S. (2018) [Bayesian Hierarchical Spatial Model for Small Area Estimation with Non-ignorable Nonresponses and Its Applications to the NHANES Dental Caries Assessments](https://arxiv.org/abs/1810.05297). ArXiv:1810.05297.
 
 <br>
 <br>
@@ -150,19 +150,23 @@ Students are underline. ＊ for as corresponding author.
 
 ----
 
-1. Liu, F., <u>Eugenio, E.</u>, **Jin, I.H.**, <u>Bowen, C. M.</u> (2020) [Differentially Private Generation of Social Networks via Exponential Random Graph Models](https://www.researchgate.net/publication/345376724_Differentially_Private_Generation_of_Social_Networks_via_Exponential_Random_Graph_Models), Proceedings of 2020 IEEE 44th Annual Computers, Software, and Applications Conference (COMPSAC). pp. 1695-1700.
+1. Liu, F., *Eugenio, E.*, Jin, I.H, *Bowen, C. M.* (2020) [Differentially Private Generation of Social Networks via Exponential Random Graph Models](https://www.researchgate.net/publication/345376724_Differentially_Private_Generation_of_Social_Networks_via_Exponential_Random_Graph_Models), Proceedings of 2020 IEEE 44th Annual Computers, Software, and Applications Conference (COMPSAC). pp. 1695-1700.
 
 <br>
 <br>
 
-#### Ongoing Project {-}
+<!-- #### Ongoing Project {-} -->
 
-----
+<!-- ---- -->
 
-1. <u>Ko, D.</u>, <u>Park, J.</u>, <u>Park, J.</u>, Jeon, M., and **Jin, I.H.** (2022) LSIRM: An R Package for a Latent Space Item Response Model with an Interaction Map.
+<!-- 1. *You, K.*, Jeon, M., Kim, I., and **Jin, I.H.** (2021) Multiple Latent Spaces Comparisons Using the Topological Analysis. -->
 
-<br>
-<br>
+<!-- 2. Yun, J., *Kim, H.*, Jeon, M., **Jin, I.H.** (2021) Latent Space Accumulator Model for Interactions between Items and Respondents with Response Time -->
+
+<!-- 3. *Ko, D.*, *Park, J.*, *Park, J.*, Jeon, M., and **Jin, I.H.** (2021) LSIRM: An R Package for a Latent Space Item Response Model with an Interaction Map. -->
+
+<!-- <br> -->
+<!-- <br> -->
 
 #### Unpublished Manuscript {-}
 
@@ -170,7 +174,9 @@ Students are underline. ＊ for as corresponding author.
 
 1. **Jin, I.H.** and Liang, F. (2009) Bayesian analysis for exponential random graph models using the double Metropolis-Hastings sampler. Technical Report 2009-097. Institute for Applied Mathematics and Computer Science, Texas A&M University.
 
-2. <u>Brodersen, A.</u>, **Jin, I.H.**, Cheng, Y., and Jeon, M. (2021) [Applying the Network Item Response Model to Student Assessment Data.](https://arxiv.org/abs/2003.07657) ArXiv:2003.07657.
+2. *Brodersen, A.*, **Jin, I.H.**, Cheng, Y., and Jeon, M. (2021) [Applying the Network Item Response Model to Student Assessment Data.](https://arxiv.org/abs/2003.07657) ArXiv:2003.07657.
+
+3. **Jin, I.H.**,  Liu, F., Eugenio, E., Kim, J., and Liu, S. (2018) [Bayesian Hierarchical Spatial Model for Small Area Estimation with Non-ignorable Nonresponses and Its Applications to the NHANES Dental Caries Assessments.](https://arxiv.org/abs/1810.05297) ArXiv:1810.05297.
 
 <br>
 <br>
@@ -214,7 +220,7 @@ Students are underline. ＊ for as corresponding author.
 		2. STA 6172: Statistical Computing for Data Science II Fall 2019, Spring 2021
 		3. STA 4117: Data Science 2 - Network Data Analysis Spring 2020, Spring 2021
 		4. STA 6800: Statistical Analysis of Network Spring 2020, Fall 2021
-		5. STA 6160: Bayesian Analysis Fall 2020, 2021
+		5. STA 6160: Bayesian Analysis Fall 2020, Fall 2021
 		6. STA 6171: Statistical Computing for Data Science I Fall 2020, Spring 2022
 		7. STA 3126: Mathematical Statistics I Spring 2022
 
@@ -299,6 +305,44 @@ Students are underline. ＊ for as corresponding author.
 
 <br>
 <br>
+
+#### Academic Committee {-}
+
+----
+
+Chair of Master's Committee
+
+* Justin Luningham (2016; University of Notre Dame)
+  - Current Position: Assistant Professor at University of North Texas.
+  
+* Alex Brodersen (2018; University of Notre Dame)
+* Chang Che (2019; University of Notre Dame)
+* Sunhee Park, Junyong Park, Suyoung Choi, Doyoung Song (2021; Yonsei University)
+* Hyunjoo Kim, Junghwan Lee, Jiwon Lim (2022; Yonsei University)
+* Seyeon Ok, Sangjun Eom, Eunyoung Ryu, Hyunyeong Kim, Suyeon Cho (Current; Yonsei University)
+
+
+Chair of Ph.D. Committee
+
+* Haiyan Liu (2018; University of Notre Dame)
+  - Co-advised with Zhiyong Johnny Zhang.
+  - Current Position: Assistant Professor at University of California, Merced.
+  - Topic: Structural Equation Modeling for Social Network.
+  
+* Kisung You (2021; University of Notre Dame)
+  - Co-advised with Lizhen Lin
+  - Current Position: Postdoctoral Research Fellow at Yale University
+  - Topic: Topics in Geometric and Topological Data Analysis.
+  
+* Jina Park (Current; Yonsei University)
+* Dongyoung Ko (Current; Yonsei University)
+* Yeseul Jeon (Current; Yonsei University)
+* Nayoon Kang (Current; Yonsei University)
+
+
+<br>
+<br>
+
 
 #### Programming Languages {-}
 
