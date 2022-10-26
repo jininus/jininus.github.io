@@ -1064,7 +1064,7 @@ C, R, Matlab, Julia, LaTeX.
   </tr>
     <tr>
     <td></td>
-	  <td></td>
+	  <td>NICE 평가정보, 금융컨설팅사업실</td>
   </tr>
 </table><br>
 
@@ -1201,6 +1201,10 @@ C, R, Matlab, Julia, LaTeX.
     <td>이메일</td>
 	  <td>hyunjookim11@naver.com</td>
   </tr>
+  <tr>
+    <td></td>
+	  <td>University of Illinois Urbana-Champaign, Quantitative Psychology, Ph.D. 과정</td>
+  </tr>
 </table><br>
 
 
@@ -1220,6 +1224,10 @@ C, R, Matlab, Julia, LaTeX.
   <tr>
     <td>이메일</td>
 	  <td>junghwn1107@naver.com</td>
+  </tr>
+  <tr>
+    <td></td>
+	  <td>University of Minnesota, Statistics, Ph.D. 과정</td>
   </tr>
 </table><br>
 
@@ -1260,6 +1268,10 @@ C, R, Matlab, Julia, LaTeX.
   <tr>
     <td>이메일</td>
 	  <td>sophi1127@yonsei.ac.kr</td>
+  </tr>
+  <tr>
+    <td></td>
+	  <td>LG 유플러스</td>
   </tr>
   
 </table><br>

@@ -33,12 +33,6 @@
   \KOMAoptions{parskip=half}}
 \makeatother
 \usepackage{xcolor}
-\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
-\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
-\hypersetup{
-  hidelinks,
-  pdfcreator={LaTeX via pandoc}}
-\urlstyle{same} % disable monospaced font for URLs
 \usepackage{longtable,booktabs,array}
 \usepackage{calc} % for calculating minipage widths
 % Correct order of tables after \paragraph or \subparagraph
@@ -63,8 +57,6 @@
 \def\fps@figure{htbp}
 \makeatother
 \usepackage[normalem]{ulem}
-% Avoid problems with \sout in headers with hyperref
-\pdfstringdefDisableCommands{\renewcommand{\sout}{}}
 \setlength{\emergencystretch}{3em} % prevent overfull lines
 \providecommand{\tightlist}{%
   \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
@@ -75,6 +67,12 @@
 \fi
 \usepackage[]{natbib}
 \bibliographystyle{plainnat}
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same} % disable monospaced font for URLs
+\hypersetup{
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
 
 \author{}
 \date{\vspace{-2.5em}}
@@ -897,6 +895,8 @@ C, R, Matlab, Julia, LaTeX.
 
 \href{mailto:esj205@naver.com}{\nolinkurl{esj205@naver.com}}
 
+NICE 평가정보, 금융컨설팅사업실
+
 성명
 
 박선희
@@ -951,6 +951,8 @@ University of California, Santa Cruz, Ph.D.~과정
 
 \href{mailto:hyunjookim11@naver.com}{\nolinkurl{hyunjookim11@naver.com}}
 
+University of Illinois Urbana-Champaign, Quantitative Psychology, Ph.D.~과정
+
 성명
 
 이정환
@@ -958,6 +960,8 @@ University of California, Santa Cruz, Ph.D.~과정
 이메일
 
 \href{mailto:junghwn1107@naver.com}{\nolinkurl{junghwn1107@naver.com}}
+
+University of Minnesota, Statistics, Ph.D.~과정
 
 성명
 
@@ -974,6 +978,8 @@ University of California, Santa Cruz, Ph.D.~과정
 이메일
 
 \href{mailto:sophi1127@yonsei.ac.kr}{\nolinkurl{sophi1127@yonsei.ac.kr}}
+
+LG 유플러스
 
   \bibliography{book.bib,packages.bib}
 
