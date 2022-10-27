@@ -295,6 +295,32 @@
   </tr>
 </table><br>
 
+<table>
+
+  <colgroup>
+  <col style="width:20%">
+  <col style="width:15%">
+  <col style="width:60%">
+  </colgroup>
+
+  <tr>
+    <td rowspan="4" align="center" valign="middle"><img src="./pics/master/M_SSY.png" height = 150></td>
+    <td>성명</td>
+	  <td>신서영</td>
+  </tr>
+  <tr>
+    <td>이메일</td>
+	  <td>seoyong@yonsei.ac.kr</td>
+  </tr>
+  <tr>
+    <td></td>
+	  <td>석사과정 (2022-2)</td>
+  </tr>
+  <tr>
+    <td>연구실</td>
+	  <td>대우관 604호</td>
+  </tr>
+</table><br>
 
 
 
@@ -415,7 +441,7 @@
   </tr>
   <tr>
     <td></td>
-	  <td></td>
+	  <td>네오플, 데이터분석팀</td>
   </tr>
 </table><br>
 
@@ -438,7 +464,7 @@
     <td>이메일</td>
 	  <td>esj205@naver.com</td>
   </tr>
-    <tr>
+  <tr>
     <td></td>
 	  <td>NICE 평가정보, 금융컨설팅사업실</td>
   </tr>
